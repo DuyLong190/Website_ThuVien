@@ -1,0 +1,82 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.BookOrder>
+@{
+    ViewData["Title"] = "Đơn đặt chưa nhận";
+}
+<h2>Đơn đặt chưa nhận</h2>
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Người đặt</th>
+            <th>Ngày đặt</th>
+            <th>Chi tiết sách</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var order in Model)
+    {
+        <tr>
+            <td>@order.User?.UserName</td>
+            <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+            <td>
+                <ul>
+                @foreach (var detail in order.BookOrderDetails)
+                {
+                    <li>@detail.Book.Title (Số lượng: @detail.Quantity)</li>
+                }
+                </ul>
+            </td>
+            <td>
+                <form asp-action="ConfirmPickUp" method="post" class="d-inline confirm-form">
+                    <input type="hidden" name="orderId" value="@order.Id" />
+                    <button type="button" class="btn btn-success btn-show-modal" data-orderid="@order.Id">Xác nhận giao</button>
+                    @Html.AntiForgeryToken()
+                </form>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<!-- Modal xác nhận -->
+<div class="modal fade" id="confirmModal" tabindex="-1" aria-labelledby="confirmModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="confirmModalLabel">Xác nhận giao sách</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Đóng"></button>
+      </div>
+      <div class="modal-body">
+        Bạn có chắc chắn muốn giao sách cho đơn này không?
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Huỷ</button>
+        <button type="button" class="btn btn-success" id="btnModalConfirm">Xác nhận</button>
+      </div>
+    </div>
+  </div>
+</div>
+@section Scripts {
+<script>
+    let formToSubmit = null;
+    document.querySelectorAll('.btn-show-modal').forEach(btn => {
+        btn.addEventListener('click', function() {
+            formToSubmit = this.closest('form');
+            var modal = new bootstrap.Modal(document.getElementById('confirmModal'));
+            modal.show();
+        });
+    });
+    document.getElementById('btnModalConfirm').addEventListener('click', function() {
+        if (formToSubmit) {
+            formToSubmit.submit();
+        }
+    });
+</script>
+} 

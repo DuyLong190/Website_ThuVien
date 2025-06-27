@@ -1,0 +1,54 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.main-content {
+    flex: 1 0 auto;
+    min-height: 70vh;
+}
+footer {
+    z-index: 1;
+    position: relative;
+}
+
+/* Bố cục nút trong BookOrder */
+.button-group {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+}
+.button-group form {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0;
+}
+.button-group input[type="number"] {
+    width: 60px;
+    margin: 0;
+}
+.button-group button,
+.button-group a {
+    margin: 0;
+    min-width: 110px;
+}

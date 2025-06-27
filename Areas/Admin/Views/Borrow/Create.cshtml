@@ -1,0 +1,64 @@
+@{
+    ViewData["Title"] = "Tạo phiếu mượn sách";
+    var books = ViewBag.Books as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Book>;
+    var users = ViewBag.Users as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.ApplicationUser>;
+}
+<h2>@ViewData["Title"]</h2>
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label>Khách hàng</label>
+        <select name="userId" class="form-control" required>
+            <option value="">-- Chọn khách hàng --</option>
+            @foreach (var user in users)
+            {
+                <option value="@user.Id">@user.FullName (@user.Email)</option>
+            }
+        </select>
+    </div>
+    <div id="books-section">
+        <label>Sách mượn</label>
+        <div class="row mb-2 book-row">
+            <div class="col-md-6">
+                <select name="bookIds" class="form-control" required>
+                    <option value="">-- Chọn sách --</option>
+                    @foreach (var book in books)
+                    {
+                        <option value="@book.Id">@book.Title</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-4">
+                <input type="number" name="quantities" class="form-control" min="1" placeholder="Số lượng" required />
+            </div>
+            <div class="col-md-2">
+                <button type="button" class="btn btn-danger remove-book">Xóa</button>
+            </div>
+        </div>
+    </div>
+    <button type="button" class="btn btn-secondary mb-3" id="add-book">+ Thêm sách</button>
+    <br />
+    <button type="submit" class="btn btn-primary">Lưu phiếu mượn</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>
+@section Scripts {
+    <script>
+        document.getElementById('add-book').onclick = function () {
+            var booksSection = document.getElementById('books-section');
+            var firstRow = booksSection.querySelector('.book-row');
+            var newRow = firstRow.cloneNode(true);
+            newRow.querySelector('select').selectedIndex = 0;
+            newRow.querySelector('input').value = '';
+            booksSection.appendChild(newRow);
+        };
+        document.getElementById('books-section').addEventListener('click', function (e) {
+            if (e.target.classList.contains('remove-book')) {
+                var rows = document.querySelectorAll('.book-row');
+                if (rows.length > 1) {
+                    e.target.closest('.book-row').remove();
+                }
+            }
+        });
+    </script>
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

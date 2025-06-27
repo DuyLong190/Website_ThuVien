@@ -1,0 +1,72 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.BookDamageReport>
+@{
+    ViewData["Title"] = "Danh sách sách bị lỗi";
+}
+<h2>Danh sách sách bị lỗi</h2>
+<form method="get">
+    <label>Lọc theo trạng thái: </label>
+    <select name="isResolved" onchange="this.form.submit()">
+        <option value="">Tất cả</option>
+        @{
+            var isResolvedQuery = Context.Request.Query["isResolved"].ToString();
+        }
+        @if (isResolvedQuery == "false") {
+            <option value="false" selected>Chưa xử lý</option>
+        } else {
+            <option value="false">Chưa xử lý</option>
+        }
+        @if (isResolvedQuery == "true") {
+            <option value="true" selected>Đã xử lý</option>
+        } else {
+            <option value="true">Đã xử lý</option>
+        }
+    </select>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sách</th>
+            <th>Người mượn</th>
+            <th>Mô tả lỗi</th>
+            <th>Tình trạng</th>
+            <th>Tiền phạt</th>
+            <th>Ngày báo</th>
+            <th>Trạng thái</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Book?.Title</td>
+            <td>@item.User?.UserName</td>
+            <td>@item.Description</td>
+            <td>@item.Book?.Condition</td>
+            <td>@(item.FineAmount.HasValue ? item.FineAmount.Value.ToString("N0") + " đ" : "")</td>
+            <td>@item.ReportDate.ToString("dd/MM/yyyy HH:mm")</td>
+            <td>@(item.IsResolved ? "Đã xử lý" : "Chưa xử lý")</td>
+            <td>
+                @if (!item.IsResolved)
+                {
+                    if (item.FineAmount.HasValue && item.FineAmount.Value > 0)
+                    {
+                        <form asp-action="MarkResolved" method="post" style="display:inline">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-primary btn-sm">Đã nộp phạt</button>
+                        </form>
+                    }
+                    else
+                    {
+                        <form asp-action="MarkResolved" method="post" style="display:inline">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <button type="submit" class="btn btn-success btn-sm">Đánh dấu đã xử lý</button>
+                        </form>
+                    }
+                }
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a> 

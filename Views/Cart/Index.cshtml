@@ -1,0 +1,58 @@
+@model QuanPhucLongQuang_DoAnWeb.Models.Cart
+@{
+    ViewData["Title"] = "Giỏ hàng của bạn";
+}
+<a href="/BookOrder/Books" class="btn btn-secondary mb-3"><i class="bi bi-arrow-left"></i> Quay lại chọn sách</a>
+<h2>Giỏ hàng của bạn</h2>
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">@TempData["Success"]</div>
+}
+@if (Model.Items.Count == 0)
+{
+    <div class="alert alert-info">Giỏ hàng trống.</div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Ảnh</th>
+                <th>Tên sách</th>
+                <th>Số lượng</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td style="width:100px"><img src="@item.ImageUrl" alt="@item.Title" style="width:80px;height:100px;object-fit:cover;"></td>
+                    <td>@item.Title</td>
+                    <td>
+                        <form asp-action="UpdateQuantity" method="post" style="display:inline-flex;align-items:center">
+                            <input type="hidden" name="bookId" value="@item.BookId" />
+                            <input type="number" name="quantity" min="1" value="@item.Quantity" class="form-control form-control-sm" style="width:70px;" onchange="this.form.submit()" />
+                            @Html.AntiForgeryToken()
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="RemoveFromCart" method="post" style="display:inline">
+                            <input type="hidden" name="bookId" value="@item.BookId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
+                            @Html.AntiForgeryToken()
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <form asp-action="PlaceOrder" method="post">
+        <button type="submit" class="btn btn-primary">Đặt sách</button>
+        @Html.AntiForgeryToken()
+    </form>
+} 

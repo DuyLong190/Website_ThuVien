@@ -1,0 +1,44 @@
+@model QuanPhucLongQuang_DoAnWeb.Models.Book
+@{
+    ViewData["Title"] = "Thêm sách mới";
+    var categories = ViewBag.Categories as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Category>;
+}
+<h2>@ViewData["Title"]</h2>
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Title">Tên sách</label>
+        <input asp-for="Title" class="form-control" placeholder="Nhập tên sách" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Author">Tác giả</label>
+        <input asp-for="Author" class="form-control" placeholder="Nhập tên tác giả" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Description">Mô tả</label>
+        <textarea asp-for="Description" class="form-control" placeholder="Nhập mô tả về sách"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="Quantity">Số lượng</label>
+        <input asp-for="Quantity" class="form-control" placeholder="Nhập số lượng" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId">Danh mục</label>
+        <select asp-for="CategoryId" class="form-control" asp-items="@(new SelectList(categories, "Id", "Name"))"></select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Condition">Tình trạng sách</label>
+        <input asp-for="Condition" class="form-control" placeholder="Nhập tình trạng sách" />
+        <span asp-validation-for="Condition" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Image">Hình ảnh</label>
+        <input type="file" name="Image" class="form-control" accept="image/*" />
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+} 

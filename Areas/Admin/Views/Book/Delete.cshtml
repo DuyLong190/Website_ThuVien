@@ -1,0 +1,21 @@
+@model QuanPhucLongQuang_DoAnWeb.Models.Book
+@{
+    ViewData["Title"] = "Xóa sách";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>Bạn có chắc chắn muốn xóa sách này?</h3>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">Tiêu đề</dt>
+        <dd class="col-sm-10">@Model.Title</dd>
+        <dt class="col-sm-2">Tác giả</dt>
+        <dd class="col-sm-10">@Model.Author</dd>
+        <dt class="col-sm-2">Danh mục</dt>
+        <dd class="col-sm-10">@Model.Category?.Name</dd>
+    </dl>
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div> 

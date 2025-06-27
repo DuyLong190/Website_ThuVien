@@ -1,0 +1,47 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Borrow>
+@{
+    ViewData["Title"] = "Danh sách phiếu mượn";
+}
+<h2>@ViewData["Title"]</h2>
+<a asp-action="Create" class="btn btn-primary mb-3">Tạo phiếu mượn mới</a>
+<!-- Thêm link DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<table class="table table-bordered table-striped" id="borrowTable">
+    <thead>
+        <tr>
+            <th>Khách hàng</th>
+            <th>Ngày mượn</th>
+            <th>Trạng thái</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@(item.User != null ? item.User.FullName : item.UserId)</td>
+                <td>@item.BorrowDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>@(item.IsReturned ? "Đã trả" : "Chưa trả")</td>
+                <td>
+                    @if (!item.IsReturned)
+                    {
+                        <a class="btn btn-success btn-sm" asp-area="Admin" asp-controller="Return" asp-action="Create" asp-route-borrowId="@item.Id">Trả sách</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <!-- Thêm script DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#borrowTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json"
+                }
+            });
+        });
+    </script>
+} 

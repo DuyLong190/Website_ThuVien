@@ -1,0 +1,50 @@
+@model List<QuanPhucLongQuang_DoAnWeb.Models.BookDamageReportViewModel>
+@{
+    ViewData["Title"] = "Báo lỗi sách";
+}
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <div>@error.ErrorMessage</div>
+        }
+    </div>
+}
+<h2>Báo lỗi sách</h2>
+<form asp-action="ReportDamage" method="post">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sách</th>
+                <th>Tình trạng mới</th>
+                <th>Mô tả lỗi</th>
+                <th>Tiền phạt (nếu có)</th>
+            </tr>
+        </thead>
+        <tbody>
+        @for (int i = 0; i < Model.Count; i++)
+        {
+            <tr>
+                <td>
+                    @Model[i].BookTitle
+                    <input type="hidden" name="reports[@i].BookId" value="@Model[i].BookId" />
+                    <input type="hidden" name="reports[@i].UserId" value="@Model[i].UserId" />
+                    <input type="hidden" name="reports[@i].ReturnId" value="@Model[i].ReturnId" />
+                </td>
+                <td>
+                    <input type="text" class="form-control" name="reports[@i].Condition" value="@Model[i].Condition" placeholder="Ví dụ: Rách bìa, Thiếu trang..." />
+                </td>
+                <td>
+                    <input type="text" class="form-control" name="reports[@i].Description" value="@Model[i].Description" placeholder="Mô tả lỗi nếu có" />
+                </td>
+                <td>
+                    <input type="number" class="form-control" name="reports[@i].FineAmount" value="@(Model[i].FineAmount ?? 0)" step="0.01" min="0" />
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <button type="submit" class="btn btn-danger">Gửi báo cáo lỗi</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form> 

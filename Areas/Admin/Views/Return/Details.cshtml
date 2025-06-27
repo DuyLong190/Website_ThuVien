@@ -1,0 +1,34 @@
+@model QuanPhucLongQuang_DoAnWeb.Models.Return
+@{
+    ViewData["Title"] = "Chi tiết phiếu trả";
+    var details = ViewBag.Details as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.ReturnDetail>;
+}
+<h2>@ViewData["Title"]</h2>
+<div>
+    <b>Mã phiếu trả:</b> @Model.Id<br />
+    <b>Mã phiếu mượn:</b> @Model.BorrowId<br />
+    <b>Người mượn:</b> @(Model.Borrow?.User?.FullName ?? "")<br />
+    <b>Email:</b> @(Model.Borrow?.User?.Email ?? "")<br />
+    <b>Ngày trả:</b> @Model.ReturnDate.ToString("dd/MM/yyyy HH:mm")<br />
+</div>
+<hr />
+<h4>Danh sách sách đã trả</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Tên sách</th>
+            <th>Số lượng trả</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in details)
+        {
+            <tr>
+                <td>@item.Book?.Title</td>
+                <td>@item.Quantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+<a asp-action="ReportDamage" asp-route-returnId="@Model.Id" class="btn btn-warning">Báo lỗi sách</a> 

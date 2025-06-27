@@ -1,0 +1,32 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Book>
+<div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+    @foreach (var item in Model)
+    {
+        <div class="col mb-5">
+            <div class="card gap-3" style="width: 18rem">
+                <img src="@item.ImageUrl" class="card-img-top" alt="..." style="height: 300px; object-fit:contain; background: #fff;">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Title</h5>
+                    <p class="card-text">Tác giả: @item.Author</p>
+                    <p class="card-text">Số lượng: @item.Quantity</p>
+                    @if (item.Quantity > 0)
+                    {
+                        <form asp-controller="Cart" asp-action="AddToCart" method="post" style="display:inline">
+                            <input type="hidden" name="bookId" value="@item.Id" />
+                            <input type="hidden" name="quantity" value="1" />
+                            <button type="submit" class="btn btn-outline-dark">
+                                <i class="bi-cart-plus me-1"></i> Thêm vào giỏ
+                            </button>
+                            @Html.AntiForgeryToken()
+                        </form>
+                        <a href="/BookOrder/Details/@item.Id" class="btn btn-info ms-2">Chi tiết</a>
+                    }
+                    else
+                    {
+                        <span class="text-danger">Hết sách</span>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div> 

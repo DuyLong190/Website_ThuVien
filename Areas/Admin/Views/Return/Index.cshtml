@@ -1,0 +1,45 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Return>
+@{
+    ViewData["Title"] = "Danh sách phiếu trả sách";
+}
+<h2>@ViewData["Title"]</h2>
+<!-- Thêm link DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<table class="table" id="returnTable">
+    <thead>
+        <tr>
+            <th>Mã phiếu trả</th>
+            <th>Mã phiếu mượn</th>
+            <th>Người mượn</th>
+            <th>Ngày trả</th>
+            <th>Chi tiết</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.BorrowId</td>
+                <td>@(item.Borrow?.User != null ? item.Borrow.User.FullName : "")</td>
+                <td>@item.ReturnDate.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id">Xem</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@section Scripts {
+    <!-- Thêm script DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#returnTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json"
+                }
+            });
+        });
+    </script>
+}

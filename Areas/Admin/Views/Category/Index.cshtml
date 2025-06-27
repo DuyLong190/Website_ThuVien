@@ -1,0 +1,44 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Category>
+@{
+    ViewData["Title"] = "Danh sách danh mục";
+}
+<h2>@ViewData["Title"]</h2>
+<p>
+    <a asp-action="Create">Thêm danh mục mới</a>
+</p>
+<!-- Thêm link DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<table class="table" id="categoryTable">
+    <thead>
+        <tr>
+            <th>Tên danh mục</th>
+            <th>Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-primary me-1"><i class="bi bi-pencil-square"></i> Sửa</a>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-secondary me-1"><i class="bi bi-info-circle"></i> Chi tiết</a>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger" onclick="return confirm('Bạn chắc chắn muốn xóa?')"><i class="bi bi-trash"></i> Xóa</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+@section Scripts {
+    <!-- Thêm script DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#categoryTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json"
+                }
+            });
+        });
+    </script>
+} 

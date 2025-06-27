@@ -1,0 +1,95 @@
+@{
+    ViewData["Title"] = "Dashboard";
+    var borrowByMonth = ViewBag.BorrowByMonth as IEnumerable<dynamic>;
+}
+<h2>📊 Thống kê tổng quan thư viện</h2>
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">🔢 Tổng số sách</h5>
+                <p class="card-text display-4">@ViewBag.TotalBooks</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">🔢 Tổng số thể loại</h5>
+                <p class="card-text display-4">@ViewBag.TotalCategories</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-info mb-3">
+            <div class="card-body">
+                <h5 class="card-title">👥 Tổng số người dùng</h5>
+                <p class="card-text display-4">@ViewBag.TotalUsers</p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">📘 Tổng số phiếu mượn</h5>
+                <p class="card-text display-4">@ViewBag.TotalBorrows</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">✅ Số phiếu đã trả</h5>
+                <p class="card-text display-4">@ViewBag.ReturnedBorrows</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-danger mb-3">
+            <div class="card-body">
+                <h5 class="card-title">❗ Phiếu chưa trả</h5>
+                <p class="card-text display-4">@ViewBag.NotReturnedBorrows</p>
+            </div>
+        </div>
+    </div>
+</div>
+<hr />
+<h3>📈 Biểu đồ: Số phiếu mượn theo tháng</h3>
+<canvas id="borrowChart" width="800" height="400"></canvas>
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        var ctx = document.getElementById('borrowChart').getContext('2d');
+        var chart = new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [
+                    @foreach (var item in borrowByMonth) {
+                        <text>"@item.Month/@item.Year",</text>
+                    }
+                ],
+                datasets: [{
+                    label: 'Số phiếu mượn',
+                    data: [
+                        @foreach (var item in borrowByMonth) {
+                            <text>@item.Count,</text>
+                        }
+                    ],
+                    backgroundColor: 'rgba(54, 162, 235, 0.5)',
+                    borderColor: 'rgba(54, 162, 235, 1)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        stepSize: 1
+                    }
+                }
+            }
+        });
+    </script>
+} 

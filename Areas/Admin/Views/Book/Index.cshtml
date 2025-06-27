@@ -1,0 +1,60 @@
+@model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Book>
+@{
+    ViewData["Title"] = "Danh sách sách";
+}
+<h2>@ViewData["Title"]</h2>
+<p>
+    <a asp-action="Create">Thêm sách mới</a>
+</p>
+<!-- Thêm link DataTables CSS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+<table class="table" id="booksTable">
+    <thead>
+        <tr>
+            <th style="width: 21%">Tên sách</th>
+            <th style="width: 15%">Tác giả</th>
+            <th style="width: 30%">Mô tả</th>
+            <th style="width: 10%">Số lượng</th>
+            <th style="width: 13%">Danh mục</th>
+            <th style="width: 12%; white-space: nowrap;">Thao tác</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.Author</td>
+            <td>@item.Description</td>
+            <td>@item.Quantity</td>
+            <td>@item.Category?.Name</td>
+            <td style="white-space: nowrap;">
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil-square"></i></a>
+                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm me-1"><i class="bi bi-info-circle"></i></a>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" onclick="return confirm('Bạn chắc chắn muốn xóa?')"><i class="bi bi-trash"></i></a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+<style>
+    #booksTable td, #booksTable th {
+        vertical-align: middle;
+    }
+    #booksTable td:last-child a {
+        margin-right: 4px;
+    }
+</style>
+@section Scripts {
+    <!-- Thêm script DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#booksTable').DataTable({
+                "language": {
+                    "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json"
+                }
+            });
+        });
+    </script>
+} 
