@@ -46,5 +46,10 @@ namespace QuanPhucLongQuang_DoAnWeb.Repositories
             _context.Categories.Update(category);
             _context.SaveChanges();
         }
+
+        public Category GetByName(string name)
+        {
+            return _context.Categories.FirstOrDefault(c => c.Name == name);
+        }
     }
 } 

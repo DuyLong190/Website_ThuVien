@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
@@ -151,16 +167,8 @@
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -250,7 +258,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -286,70 +294,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-26T18:39:09.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:27:44.392Z",
+              "WhenOpened": "2025-06-27T06:16:53.122Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-25T11:30:04.969Z",
-              "EditorCaption": " - Bitmap [127x179, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:54:00.985Z",
-              "EditorCaption": " - Bitmap [599x900, 24 bit, JPG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T06:07:09.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAjwD0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T07:33:37.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookOrder\\Books.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
+              "RelativeToolTip": "Views\\BookOrder\\Books.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T17:03:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_BooksListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookOrder\\_BooksListPartial.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
+              "RelativeToolTip": "Views\\BookOrder\\_BooksListPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T17:24:43.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:10:30.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookOrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
+              "RelativeToolTip": "Controllers\\BookOrderController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAASwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:17:12.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:27:44.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T06:17:08.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReturnController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ReturnController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ReturnController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:36:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\BookOrder\\Details.cshtml",
@@ -362,33 +437,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Books.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookOrder\\Books.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
-              "RelativeToolTip": "Views\\BookOrder\\Books.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T17:03:55.532Z",
+              "WhenOpened": "2025-06-26T18:09:05.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_BooksListPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookOrder\\_BooksListPartial.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
-              "RelativeToolTip": "Views\\BookOrder\\_BooksListPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T17:24:43.205Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:54:00.985Z",
+              "EditorCaption": " - Bitmap [599x900, 24 bit, JPG]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
+              "Title": "c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-25T11:30:04.969Z",
+              "EditorCaption": " - Bitmap [127x179, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
@@ -400,33 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:09:05.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:10:30.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
@@ -438,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
@@ -450,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
@@ -462,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
@@ -474,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
@@ -486,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
@@ -498,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
@@ -510,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
@@ -522,7 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
@@ -534,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
@@ -546,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
@@ -558,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
@@ -570,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
@@ -582,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
@@ -594,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
@@ -606,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
@@ -618,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
               "RelativeDocumentMoniker": "wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
@@ -630,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
@@ -643,7 +703,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "BookDamageReport.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReport.cs",
               "RelativeDocumentMoniker": "Models\\BookDamageReport.cs",
@@ -656,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -669,7 +729,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -682,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "BookDamageReportViewModel.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReportViewModel.cs",
               "RelativeDocumentMoniker": "Models\\BookDamageReportViewModel.cs",
@@ -695,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BookController.cs",
@@ -708,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -721,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
@@ -734,19 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ReturnController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ReturnController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ReturnController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:36:39.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "SessionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Extensions\\SessionExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
@@ -758,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "BookOrder.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrder.cs",
               "RelativeDocumentMoniker": "Models\\BookOrder.cs",
@@ -770,20 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "BookOrderController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BookOrderController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
-              "RelativeToolTip": "Controllers\\BookOrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:17:12.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "DamageReports.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
@@ -795,7 +830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
@@ -808,7 +843,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "BookOrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\BookOrderDetail.cs",
@@ -820,7 +855,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "20250625033520_SeedMoreBooks.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250625033520_SeedMoreBooks.cs",
               "RelativeDocumentMoniker": "Migrations\\20250625033520_SeedMoreBooks.cs",
@@ -832,7 +867,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
@@ -844,7 +879,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
@@ -856,7 +891,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Index.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Index.cshtml",
@@ -864,11 +899,12 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Return\\Index.cshtml",
               "ViewState": "AgIAABMAAAAAAAAAAAAcwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T09:29:12.4Z"
+              "WhenOpened": "2025-06-25T09:29:12.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Create.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Create.cshtml",
@@ -880,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -892,7 +928,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -904,7 +940,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 55,
               "Title": "QuanPhucLongQuang_DoAnWeb.csproj",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\QuanPhucLongQuang_DoAnWeb.csproj",
               "RelativeDocumentMoniker": "QuanPhucLongQuang_DoAnWeb.csproj",
@@ -916,7 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 54,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Models\\SD.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Models\\SD.cs",
@@ -928,7 +964,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 57,
               "Title": "BorrowDetailRepository.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BorrowDetailRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BorrowDetailRepository.cs",
@@ -940,7 +976,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 61,
               "Title": "20250624073826_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250624073826_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250624073826_InitialCreate.cs",
@@ -952,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 56,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -964,7 +1000,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "ReturnDetail.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ReturnDetail.cs",
               "RelativeDocumentMoniker": "Models\\ReturnDetail.cs",
@@ -976,7 +1012,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "Return.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Return.cs",
               "RelativeDocumentMoniker": "Models\\Return.cs",
@@ -988,7 +1024,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "BorrowDetail.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BorrowDetail.cs",
               "RelativeDocumentMoniker": "Models\\BorrowDetail.cs",
@@ -1000,7 +1036,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Borrow.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Borrow.cs",
               "RelativeDocumentMoniker": "Models\\Borrow.cs",
@@ -1012,7 +1048,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",

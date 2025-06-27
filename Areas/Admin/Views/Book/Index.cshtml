@@ -2,58 +2,65 @@
 @{
     ViewData["Title"] = "Danh sách sách";
 }
-<h2>@ViewData["Title"]</h2>
-<p>
-    <a asp-action="Create">Thêm sách mới</a>
-</p>
-<!-- Thêm link DataTables CSS -->
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
-<table class="table" id="booksTable">
-    <thead>
-        <tr>
-            <th style="width: 21%">Tên sách</th>
-            <th style="width: 15%">Tác giả</th>
-            <th style="width: 30%">Mô tả</th>
-            <th style="width: 10%">Số lượng</th>
-            <th style="width: 13%">Danh mục</th>
-            <th style="width: 12%; white-space: nowrap;">Thao tác</th>
-        </tr>
-    </thead>
-    <tbody>
-    @foreach (var item in Model)
-    {
-        <tr>
-            <td>@item.Title</td>
-            <td>@item.Author</td>
-            <td>@item.Description</td>
-            <td>@item.Quantity</td>
-            <td>@item.Category?.Name</td>
-            <td style="white-space: nowrap;">
-                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning btn-sm me-1"><i class="bi bi-pencil-square"></i></a>
-                <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm me-1"><i class="bi bi-info-circle"></i></a>
-                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" onclick="return confirm('Bạn chắc chắn muốn xóa?')"><i class="bi bi-trash"></i></a>
-            </td>
-        </tr>
-    }
-    </tbody>
-</table>
-<style>
-    #booksTable td, #booksTable th {
-        vertical-align: middle;
-    }
-    #booksTable td:last-child a {
-        margin-right: 4px;
-    }
-</style>
+<div class="container-fluid px-0">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="mb-0">@ViewData["Title"]</h2>
+        <a asp-action="Create" class="btn btn-primary"><i class="bi bi-plus-circle me-1"></i> Thêm sách mới</a>
+    </div>
+    <div class="card shadow-sm">
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover table-bordered align-middle mb-0" id="booksTable">
+                    <thead class="table-light">
+                        <tr>
+                            <th style="width: 21%">Tên sách</th>
+                            <th style="width: 15%">Tác giả</th>
+                            <th style="width: 30%">Mô tả</th>
+                            <th style="width: 10%">Số lượng</th>
+                            <th style="width: 13%">Danh mục</th>
+                            <th style="width: 12%; white-space: nowrap;">Thao tác</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.Title</td>
+                            <td>@item.Author</td>
+                            <td>@item.Description</td>
+                            <td>@item.Quantity</td>
+                            <td>@item.Category?.Name</td>
+                            <td style="white-space: nowrap;">
+                                <div class="btn-group" role="group">
+                                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning btn-sm" title="Sửa"><i class="bi bi-pencil-square"></i></a>
+                                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-info btn-sm" title="Chi tiết"><i class="bi bi-info-circle"></i></a>
+                                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger btn-sm" title="Xóa" onclick="return confirm('Bạn chắc chắn muốn xóa?')"><i class="bi bi-trash"></i></a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
 @section Scripts {
-    <!-- Thêm script DataTables JS -->
+    <!-- DataTables Bootstrap 5 CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" />
+    <!-- DataTables core JS -->
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <!-- DataTables Bootstrap 5 JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
     <script>
         $(document).ready(function () {
             $('#booksTable').DataTable({
                 "language": {
                     "url": "//cdn.datatables.net/plug-ins/1.13.6/i18n/vi.json"
-                }
+                },
+                "pagingType": "simple_numbers",
+                "responsive": true,
+                "autoWidth": false
             });
         });
     </script>
