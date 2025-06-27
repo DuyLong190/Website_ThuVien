@@ -24,7 +24,9 @@
                 <td>@(item.Borrow?.User != null ? item.Borrow.User.FullName : "")</td>
                 <td>@item.ReturnDate.ToString("dd/MM/yyyy HH:mm")</td>
                 <td>
-                    <a asp-action="Details" asp-route-id="@item.Id">Xem</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-outline-primary btn-sm d-flex align-items-center gap-1">
+                        <i class="bi bi-eye"></i> <span class="d-none d-md-inline">Xem</span>
+                    </a>
                 </td>
             </tr>
         }

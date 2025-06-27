@@ -1,0 +1,114 @@
+@model QuanPhucLongQuang_DoAnWeb.Areas.Admin.ViewModels.BorrowDetailsViewModel
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Chỉnh sửa phiếu mượn";
+    var statusList = new List<SelectListItem> {
+        new SelectListItem { Text = "Chưa trả", Value = "false", Selected = !Model.Borrow.IsReturned },
+        new SelectListItem { Text = "Đã trả", Value = "true", Selected = Model.Borrow.IsReturned }
+    };
+    var books = ViewBag.Books as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Book>;
+}
+<h2>@ViewData["Title"]</h2>
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <div>@error.ErrorMessage</div>
+        }
+    </div>
+}
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Borrow.Id" name="id" />
+    <div class="card mb-3">
+        <div class="card-header">
+            <strong>Thông tin phiếu mượn</strong>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">Mã phiếu mượn</dt>
+                <dd class="col-sm-9">@Model.Borrow.Id</dd>
+                <dt class="col-sm-3">Khách hàng</dt>
+                <dd class="col-sm-9">@Model.User?.FullName (@Model.User?.Email)</dd>
+                <dt class="col-sm-3">Ngày mượn</dt>
+                <dd class="col-sm-9">@Model.Borrow.BorrowDate.ToString("dd/MM/yyyy HH:mm")</dd>
+                <dt class="col-sm-3">Trạng thái</dt>
+                <dd class="col-sm-9">
+                    <select name="isReturned" class="form-control" asp-items="ViewBag.StatusList"></select>
+                </dd>
+            </dl>
+        </div>
+    </div>
+    <div class="card mb-3">
+        <div class="card-header">
+            <strong>Danh sách sách mượn</strong>
+        </div>
+        <div class="card-body">
+            <table class="table table-bordered table-striped" id="booksTable">
+                <thead>
+                    <tr>
+                        <th>Tên sách</th>
+                        <th>Số lượng</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Model.BorrowDetails.Count; i++)
+                    {
+                        <tr>
+                            <td>
+                                <select name="bookIds" class="form-control book-select" data-selected="@Model.BorrowDetails[i].BookId" required>
+                                    <option value="">-- Chọn sách --</option>
+                                    @foreach (var book in books)
+                                    {
+                                        <option value="@book.Id">@book.Title</option>
+                                    }
+                                </select>
+                            </td>
+                            <td>
+                                <input type="number" name="quantities" class="form-control" min="1" value="@Model.BorrowDetails[i].Quantity" required />
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-danger remove-book">Xoá</button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <button type="button" class="btn btn-secondary mb-3" id="add-book">+ Thêm sách</button>
+        </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu thay đổi</button>
+    <a asp-action="Details" asp-route-id="@Model.Borrow.Id" class="btn btn-secondary">Quay lại chi tiết</a>
+</form>
+@section Scripts {
+    <script>
+        var booksData = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(books.Select(b => new { b.Id, b.Title })));
+        document.getElementById('add-book').onclick = function () {
+            var table = document.getElementById('booksTable').getElementsByTagName('tbody')[0];
+            var row = document.createElement('tr');
+            var selectHtml = '<select name="bookIds" class="form-control book-select" required><option value="">-- Chọn sách --</option>';
+            booksData.forEach(function (b) {
+                selectHtml += '<option value="' + b.Id + '">' + b.Title + '</option>';
+            });
+            selectHtml += '</select>';
+            row.innerHTML = '<td>' + selectHtml + '</td>' +
+                '<td><input type="number" name="quantities" class="form-control" min="1" required /></td>' +
+                '<td><button type="button" class="btn btn-danger remove-book">Xoá</button></td>';
+            table.appendChild(row);
+        };
+        document.getElementById('booksTable').addEventListener('click', function (e) {
+            if (e.target.classList.contains('remove-book')) {
+                var rows = document.querySelectorAll('#booksTable tbody tr');
+                if (rows.length > 1) {
+                    e.target.closest('tr').remove();
+                }
+            }
+        });
+        // Set selected value for each select
+        document.querySelectorAll('.book-select').forEach(function(sel) {
+            var selected = sel.getAttribute('data-selected');
+            if (selected) sel.value = selected;
+        });
+    </script>
+} 
