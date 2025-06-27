@@ -2,17 +2,30 @@
 @{
     ViewData["Title"] = "Chỉnh sửa danh mục";
 }
-<h2>@ViewData["Title"]</h2>
-<form asp-action="Edit" method="post">
-    <input type="hidden" asp-for="Id" />
-    <div class="form-group">
-        <label asp-for="Name"></label>
-        <input asp-for="Name" class="form-control" />
-        <span asp-validation-for="Name" class="text-danger"></span>
+<div class="row justify-content-center">
+    <div class="col-lg-6 col-md-8 col-12">
+        <div class="card shadow-sm border-0 mt-3 mb-4">
+            <div class="card-header bg-primary text-white text-center py-3 rounded-top">
+                <h3 class="mb-0"><i class="bi bi-pencil-square me-2"></i>@ViewData["Title"]</h3>
+            </div>
+            <div class="card-body p-4">
+                <form asp-action="Edit" method="post" autocomplete="off">
+                    <div asp-validation-summary="All" class="alert alert-danger" role="alert"></div>
+                    <input type="hidden" asp-for="Id" />
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label fw-semibold">Tên danh mục</label>
+                        <input asp-for="Name" class="form-control" placeholder="Nhập tên danh mục" />
+                        <span asp-validation-for="Name" class="text-danger small"></span>
+                    </div>
+                    <div class="d-flex justify-content-between mt-4">
+                        <button type="submit" class="btn btn-primary px-4 py-2"><i class="bi bi-save me-1"></i> Lưu</button>
+                        <a asp-action="Index" class="btn btn-outline-secondary px-4 py-2"><i class="bi bi-arrow-left me-1"></i> Quay lại</a>
+                    </div>
+                </form>
+            </div>
+        </div>
     </div>
-    <button type="submit" class="btn btn-primary">Lưu</button>
-    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
-</form>
+</div>
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 } 

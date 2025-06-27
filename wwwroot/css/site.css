@@ -52,3 +52,55 @@ footer {
     margin: 0;
     min-width: 110px;
 }
+
+/* --- Book Management Custom Styles --- */
+.card {
+    transition: box-shadow 0.2s, transform 0.2s;
+    border-radius: 14px !important;
+}
+.card:hover {
+    box-shadow: 0 6px 32px #b6c6e6;
+    transform: translateY(-2px) scale(1.01);
+}
+.card-header {
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    background: linear-gradient(90deg, #2563eb 60%, #0d6efd 100%) !important;
+    border-top-left-radius: 14px !important;
+    border-top-right-radius: 14px !important;
+}
+.card .form-label, .card dt {
+    color: #2563eb;
+    font-weight: 600;
+    letter-spacing: 0.2px;
+}
+.card .form-control:focus, .card .form-select:focus {
+    border-color: #2563eb;
+    box-shadow: 0 0 0 0.15rem #2563eb33;
+}
+.card .btn-primary, .card .btn-outline-secondary {
+    border-radius: 6px;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+    box-shadow: 0 2px 8px #e3e3e3;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+.card .btn-primary:hover {
+    background: #2563eb;
+    color: #fff;
+    box-shadow: 0 4px 16px #b6c6e6;
+}
+.card .btn-outline-secondary:hover {
+    background: #e3f0ff;
+    color: #2563eb;
+    border-color: #2563eb;
+}
+.card .img-thumbnail {
+    border-radius: 10px;
+    border: 2px solid #e3f0ff;
+    box-shadow: 0 2px 12px #b0c4de44;
+    background: #f8fafc;
+}
+.card .text-muted.fst-italic {
+    color: #b0b0b0 !important;
+}

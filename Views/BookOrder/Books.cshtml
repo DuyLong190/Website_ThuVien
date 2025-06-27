@@ -1,6 +1,6 @@
 @model IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Book>
 @{
-    ViewData["Title"] = "Đặt giữ sách";
+    ViewData["Title"] = "Hãy chọn sách của bạn";
     var search = Context.Request.Query["search"].ToString();
     var categories = ViewBag.Categories as IEnumerable<QuanPhucLongQuang_DoAnWeb.Models.Category>;
     int? selectedCategory = ViewBag.SelectedCategory as int?;
@@ -11,21 +11,22 @@
         if (cat != null) selectedCategoryName = cat.Name;
     }
 }
+<h1 class="text-center mb-4 fw-bold text-primary" style="letter-spacing:1px;"><i class="bi bi-book-half me-2"></i>Đặt giữ sách</h1>
 <div class="container-fluid px-0">
     <div class="row justify-content-center">
         <div class="col-12 col-lg-10 mb-4">
-            <div class="bg-white p-4 rounded-4 shadow-sm d-flex flex-wrap align-items-center gap-3 justify-content-between flex-column flex-md-row">
+            <div class="bg-white p-4 rounded-4 shadow-lg d-flex flex-wrap align-items-center gap-3 justify-content-between flex-column flex-md-row animate__animated animate__fadeInDown">
                 <div class="dropdown mb-2 mb-md-0">
-                    <button class="btn btn-outline-primary dropdown-toggle px-4 py-2 rounded-pill fw-semibold shadow-sm" type="button" id="categoryDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                    <button class="btn btn-outline-primary dropdown-toggle px-4 py-2 rounded-pill fw-semibold shadow-sm animate__animated animate__pulse" type="button" id="categoryDropdown" data-bs-toggle="dropdown" aria-expanded="false">
                         <i class="bi bi-list"></i> @selectedCategoryName
                     </button>
-                    <ul class="dropdown-menu" aria-labelledby="categoryDropdown">
-                        <li><a class="dropdown-item @(selectedCategory == null ? "active" : "")" href="@Url.Action("Books", new { search = search })"><i class="bi bi-collection me-2"></i>Tất cả</a></li>
+                    <ul class="dropdown-menu animate__animated animate__fadeIn" aria-labelledby="categoryDropdown">
+                        <li><a class="dropdown-item @(selectedCategory == null ? "active" : "")" href="@Url.Action("Books", new { search = search })">Tất cả</a></li>
                         @if (categories != null)
                         {
                             foreach (var cat in categories)
                             {
-                                <li><a class="dropdown-item @(selectedCategory == cat.Id ? "active" : "")" href="@Url.Action("Books", new { categoryId = cat.Id, search = search })"><i class="bi bi-bookmark me-2"></i>@cat.Name</a></li>
+                                <li><a class="dropdown-item @(selectedCategory == cat.Id ? "active" : "")" href="@Url.Action("Books", new { categoryId = cat.Id, search = search })">@cat.Name</a></li>
                             }
                         }
                     </ul>
@@ -33,28 +34,27 @@
                 <div class="flex-grow-1 ms-md-3 w-100 w-md-auto">
                     <form method="get" class="w-100">
                         <div class="input-group input-group-lg rounded-pill shadow-sm">
-                            <span class="input-group-text bg-white border-primary rounded-start-pill"><i class="bi bi-search"></i></span>
-                            <input type="text" class="form-control border-primary rounded-0" id="searchBox" name="search" placeholder="Tìm kiếm sách theo tên, tác giả..." value="@search" autocomplete="off" />
+                            <input type="text" class="form-control border-primary rounded-start-pill animate__animated animate__pulse" id="searchBox" name="search" placeholder="Tìm kiếm sách theo tên, tác giả..." value="@search" autocomplete="off" />
                             @if (selectedCategory != null)
                             {
                                 <input type="hidden" name="categoryId" value="@selectedCategory" />
                             }
-                            <button class="btn btn-primary px-4 rounded-end-pill" type="submit"><i class="bi bi-search"></i> Tìm kiếm</button>
+                            <button class="btn btn-primary px-4 rounded-end-pill animate__animated animate__pulse" type="submit"><i class="bi bi-search"></i> Tìm kiếm</button>
                         </div>
                     </form>
                 </div>
             </div>
             @if (TempData["Error"] != null)
             {
-                <div class="alert alert-danger alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold d-flex align-items-center justify-content-center gap-2" role="alert">
-                    <i class="bi bi-x-circle-fill fs-5"></i> @TempData["Error"]
+                <div class="alert alert-danger alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold animate__animated animate__shakeX" role="alert">
+                    @TempData["Error"]
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
             }
             @if (TempData["Success"] != null)
             {
-                <div class="alert alert-success alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold d-flex align-items-center justify-content-center gap-2" role="alert">
-                    <i class="bi bi-check-circle-fill fs-5"></i> @TempData["Success"]
+                <div class="alert alert-success alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold animate__animated animate__tada" role="alert">
+                    @TempData["Success"]
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
             }

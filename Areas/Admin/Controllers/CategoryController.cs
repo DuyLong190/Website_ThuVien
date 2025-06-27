@@ -38,6 +38,10 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Category category)
         {
+            if (_categoryRepository.GetByName(category.Name) != null)
+            {
+                ModelState.AddModelError("Name", " Tên danh mục đã có");
+            }
             if (ModelState.IsValid)
             {
                 _categoryRepository.Add(category);
@@ -57,6 +61,11 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Category category)
         {
+            var existing = _categoryRepository.GetByName(category.Name);
+            if (existing != null && existing.Id != category.Id)
+            {
+                ModelState.AddModelError("Name", "Tên danh mục đã có");
+            }
             if (ModelState.IsValid)
             {
                 _categoryRepository.Update(category);

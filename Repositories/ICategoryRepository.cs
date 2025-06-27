@@ -10,5 +10,6 @@ namespace QuanPhucLongQuang_DoAnWeb.Repositories
         void Add(Category category);
         void Update(Category category);
         void Delete(int id);
+        Category GetByName(string name);
     }
 } 
