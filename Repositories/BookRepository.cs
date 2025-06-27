@@ -44,6 +44,13 @@ namespace QuanPhucLongQuang_DoAnWeb.Repositories
 
         public void Update(Book book)
         {
+            var tracked = _context.ChangeTracker.Entries<Book>()
+                                  .FirstOrDefault(e => e.Entity.Id == book.Id);
+            if (tracked != null)
+            {
+                tracked.State = EntityState.Detached;
+            }
+
             _context.Books.Update(book);
             _context.SaveChanges();
         }

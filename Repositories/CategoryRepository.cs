@@ -43,8 +43,13 @@ namespace QuanPhucLongQuang_DoAnWeb.Repositories
 
         public void Update(Category category)
         {
-            _context.Categories.Update(category);
-            _context.SaveChanges();
+            var existingCategory = _context.Categories.FirstOrDefault(c => c.Id == category.Id);
+            if (existingCategory != null)
+            {
+                existingCategory.Name = category.Name;
+                // Nếu có thêm thuộc tính khác, cập nhật ở đây
+                _context.SaveChanges();
+            }
         }
 
         public Category GetByName(string name)
