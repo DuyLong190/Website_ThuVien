@@ -27,6 +27,7 @@
                     {
                         <a class="btn btn-success btn-sm" asp-area="Admin" asp-controller="Return" asp-action="Create" asp-route-borrowId="@item.Id">Trả sách</a>
                     }
+                    <a class="btn btn-info btn-sm" asp-area="Admin" asp-controller="Borrow" asp-action="Details" asp-route-id="@item.Id">Chi tiết</a>
                 </td>
             </tr>
         }

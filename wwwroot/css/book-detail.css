@@ -1,0 +1,85 @@
+body {
+    background: #fff6e0;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.card.book-detail-card {
+    border-radius: 24px;
+    box-shadow: 0 8px 32px rgba(44,62,80,0.12);
+    border: none;
+    padding: 2.5rem 2rem;
+    background: #fff;
+}
+.book-detail-title {
+    color: #b71c1c;
+    font-size: 2.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.5px;
+}
+.book-detail-sub {
+    color: #8d6e63;
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+}
+.book-detail-table th {
+    color: #795548;
+    font-weight: 500;
+    width: 140px;
+    padding-left: 0;
+}
+.book-detail-table td {
+    color: #222;
+    font-size: 1.05rem;
+}
+.book-detail-desc {
+    font-size: 1.05rem;
+    color: #444;
+    text-align: justify;
+    margin-bottom: 1.5rem;
+}
+.book-detail-btn {
+    font-size: 1.1rem;
+    padding: 0.6rem 2.2rem;
+    border-radius: 2rem;
+    font-weight: 500;
+    background: #d32f2f;
+    border: none;
+    box-shadow: 0 2px 8px rgba(211,47,47,0.08);
+    transition: background 0.2s;
+}
+.book-detail-btn:hover {
+    background: #b71c1c;
+}
+.book-detail-shops {
+    margin-top: 2.5rem;
+}
+.book-detail-shops h5 {
+    color: #1976d2;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+}
+.book-detail-shops .btn {
+    min-width: 120px;
+    margin-bottom: 0.5rem;
+    border-radius: 1.2rem;
+    font-size: 1rem;
+    background: #fffbe7;
+    border: 1px solid #ffe082;
+    color: #795548;
+    transition: background 0.2s, color 0.2s;
+}
+.book-detail-shops .btn:hover {
+    background: #ffe082;
+    color: #b71c1c;
+}
+@media (max-width: 768px) {
+    .card.book-detail-card {
+        padding: 1.2rem 0.5rem;
+    }
+    .book-detail-title {
+        font-size: 1.3rem;
+    }
+    .book-detail-table th, .book-detail-table td {
+        font-size: 0.98rem;
+    }
+} 

@@ -97,5 +97,166 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Details(int id)
+        {
+            var borrow = _borrowRepository.GetById(id);
+            if (borrow == null)
+            {
+                return NotFound();
+            }
+            var user = _userManager.Users.FirstOrDefault(u => u.Id == borrow.UserId);
+            var borrowDetails = _borrowDetailRepository.GetByBorrowId(borrow.Id).ToList();
+            var viewModel = new Areas.Admin.ViewModels.BorrowDetailsViewModel
+            {
+                Borrow = borrow,
+                User = user,
+                BorrowDetails = borrowDetails
+            };
+            return View(viewModel);
+        }
+
+        public IActionResult Edit(int id)
+        {
+            var borrow = _borrowRepository.GetById(id);
+            if (borrow == null)
+            {
+                return NotFound();
+            }
+            if (borrow.IsReturned)
+            {
+                TempData["ErrorMessage"] = "Phiếu mượn đã trả, không thể chỉnh sửa.";
+                return RedirectToAction("Details", new { id });
+            }
+            var user = _userManager.Users.FirstOrDefault(u => u.Id == borrow.UserId);
+            var borrowDetails = _borrowDetailRepository.GetByBorrowId(borrow.Id).ToList();
+            ViewBag.StatusList = new List<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>
+            {
+                new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem { Text = "Chưa trả", Value = "false", Selected = !borrow.IsReturned },
+                new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem { Text = "Đã trả", Value = "true", Selected = borrow.IsReturned }
+            };
+            ViewBag.Books = _bookRepository.GetAll();
+            var viewModel = new Areas.Admin.ViewModels.BorrowDetailsViewModel
+            {
+                Borrow = borrow,
+                User = user,
+                BorrowDetails = borrowDetails
+            };
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit(int id, bool isReturned, List<int> bookIds, List<int> quantities)
+        {
+            var borrow = _borrowRepository.GetById(id);
+            if (borrow == null)
+            {
+                return NotFound();
+            }
+            if (borrow.IsReturned)
+            {
+                TempData["ErrorMessage"] = "Phiếu mượn đã trả, không thể chỉnh sửa.";
+                return RedirectToAction("Details", new { id });
+            }
+            borrow.IsReturned = isReturned;
+            _borrowRepository.Update(borrow);
+
+            var oldDetails = _borrowDetailRepository.GetByBorrowId(borrow.Id).ToList();
+            var error = false;
+            string errorMsg = null;
+            // Xoá các BorrowDetail không còn trong danh sách mới
+            foreach (var old in oldDetails)
+            {
+                if (!bookIds.Contains(old.BookId))
+                {
+                    var book = _bookRepository.GetById(old.BookId);
+                    book.Quantity += old.Quantity;
+                    _bookRepository.Update(book);
+                    _borrowDetailRepository.Delete(old.Id);
+                }
+            }
+            // Thêm mới hoặc cập nhật số lượng
+            for (int i = 0; i < bookIds.Count; i++)
+            {
+                var bookId = bookIds[i];
+                var quantity = quantities[i];
+                var book = _bookRepository.GetById(bookId);
+                var detail = oldDetails.FirstOrDefault(x => x.BookId == bookId);
+                if (detail == null)
+                {
+                    if (quantity > book.Quantity)
+                    {
+                        error = true;
+                        errorMsg = $"Số lượng mượn cho sách '{book.Title}' vượt quá số lượng còn lại ({book.Quantity}).";
+                        break;
+                    }
+                }
+                else
+                {
+                    if (quantity != detail.Quantity)
+                    {
+                        int diff = quantity - detail.Quantity;
+                        if (diff > 0 && diff > book.Quantity)
+                        {
+                            error = true;
+                            errorMsg = $"Số lượng mượn cho sách '{book.Title}' vượt quá số lượng còn lại ({book.Quantity}).";
+                            break;
+                        }
+                    }
+                }
+            }
+            if (error)
+            {
+                var user = _userManager.Users.FirstOrDefault(u => u.Id == borrow.UserId);
+                var borrowDetails = _borrowDetailRepository.GetByBorrowId(borrow.Id).ToList();
+                ViewBag.StatusList = new List<Microsoft.AspNetCore.Mvc.Rendering.SelectListItem>
+                {
+                    new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem { Text = "Chưa trả", Value = "false", Selected = !borrow.IsReturned },
+                    new Microsoft.AspNetCore.Mvc.Rendering.SelectListItem { Text = "Đã trả", Value = "true", Selected = borrow.IsReturned }
+                };
+                ViewBag.Books = _bookRepository.GetAll();
+                ModelState.AddModelError("", errorMsg);
+                var viewModel = new Areas.Admin.ViewModels.BorrowDetailsViewModel
+                {
+                    Borrow = borrow,
+                    User = user,
+                    BorrowDetails = borrowDetails
+                };
+                return View(viewModel);
+            }
+            // Nếu không có lỗi thì thực hiện cập nhật như cũ
+            for (int i = 0; i < bookIds.Count; i++)
+            {
+                var bookId = bookIds[i];
+                var quantity = quantities[i];
+                var book = _bookRepository.GetById(bookId);
+                var detail = oldDetails.FirstOrDefault(x => x.BookId == bookId);
+                if (detail == null)
+                {
+                    var newDetail = new BorrowDetail
+                    {
+                        BorrowId = borrow.Id,
+                        BookId = bookId,
+                        Quantity = quantity
+                    };
+                    _borrowDetailRepository.Add(newDetail);
+                    book.Quantity -= quantity;
+                    _bookRepository.Update(book);
+                }
+                else
+                {
+                    if (quantity != detail.Quantity)
+                    {
+                        int diff = quantity - detail.Quantity;
+                        book.Quantity -= diff;
+                        _bookRepository.Update(book);
+                        detail.Quantity = quantity;
+                        _borrowDetailRepository.Update(detail);
+                    }
+                }
+            }
+            return RedirectToAction("Details", new { id = borrow.Id });
+        }
     }
 } 

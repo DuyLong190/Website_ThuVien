@@ -1,0 +1,57 @@
+@model QuanPhucLongQuang_DoAnWeb.Areas.Admin.ViewModels.BorrowDetailsViewModel
+@{
+    ViewData["Title"] = "Chi tiết phiếu mượn";
+}
+<h2>@ViewData["Title"]</h2>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+<div class="card mb-3">
+    <div class="card-header">
+        <strong>Thông tin phiếu mượn</strong>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Mã phiếu mượn</dt>
+            <dd class="col-sm-9">@Model.Borrow.Id</dd>
+            <dt class="col-sm-3">Khách hàng</dt>
+            <dd class="col-sm-9">@Model.User?.FullName (@Model.User?.Email)</dd>
+            <dt class="col-sm-3">Ngày mượn</dt>
+            <dd class="col-sm-9">@Model.Borrow.BorrowDate.ToString("dd/MM/yyyy HH:mm")</dd>
+            <dt class="col-sm-3">Trạng thái</dt>
+            <dd class="col-sm-9">@(Model.Borrow.IsReturned ? "Đã trả" : "Chưa trả")</dd>
+        </dl>
+    </div>
+</div>
+<div class="card mb-3">
+    <div class="card-header">
+        <strong>Danh sách sách mượn</strong>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Tên sách</th>
+                    <th>Tác giả</th>
+                    <th>Số lượng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var detail in Model.BorrowDetails)
+                {
+                    <tr>
+                        <td>@detail.Book?.Title</td>
+                        <td>@detail.Book?.Author</td>
+                        <td>@detail.Quantity</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+@if (!Model.Borrow.IsReturned)
+{
+    <a asp-action="Edit" asp-route-id="@Model.Borrow.Id" class="btn btn-warning">Chỉnh sửa</a>
+} 
