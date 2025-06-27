@@ -1,4 +1,4 @@
-@model QuanPhucLongQuang_DoAnWeb.Models.ApplicationUser
+@model QuanPhucLongQuang_DoAnWeb.Areas.Admin.ViewModels.EditUserViewModel
 @{
     ViewData["Title"] = "Sửa thông tin người dùng";
 }
@@ -29,6 +29,18 @@
         <label asp-for="Age" class="form-label"></label>
         <input asp-for="Age" class="form-control" />
         <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Role" class="form-label"></label>
+        @if (ViewBag.DisableRole == true)
+        {
+            <select asp-for="Role" asp-items="ViewBag.RoleList" class="form-control" disabled></select>
+            <div class="text-danger small">Không thể thay đổi quyền của tài khoản admin đầu tiên.</div>
+        }
+        else
+        {
+            <select asp-for="Role" asp-items="ViewBag.RoleList" class="form-control"></select>
+        }
     </div>
     <button type="submit" class="btn btn-success">Lưu</button>
     <a asp-action="Index" class="btn btn-secondary">Quay lại</a>

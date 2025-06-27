@@ -1,246 +1,250 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\",
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\bookdamagereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookdamagereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\bookdamagereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookdamagereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\return\\damagereports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\damagereports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\bookorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\bookorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\views\\return\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\migrations\\20250625033520_seedmorebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:migrations\\20250625033520_seedmorebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\migrations\\20250624073826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:migrations\\20250624073826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:controllers\\bookordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\books.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\_bookslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\bookorder\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\bookdamagereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookdamagereportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\bookdamagereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookdamagereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\controllers\\returncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\return.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\return\\damagereports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\damagereports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\bookorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookorderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\bookorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\bookorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\views\\return\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\views\\return\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\migrations\\20250625033520_seedmorebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:migrations\\20250625033520_seedmorebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:areas\\admin\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\quanphuclongquang_doanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\quanphuclongquang_doanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:quanphuclongquang_doanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\repositories\\borrowdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\repositories\\borrowdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:repositories\\borrowdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\returndetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\returndetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\returndetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\models\\borrowdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\pc\\desktop\\demo1\\website_thuvien\\models\\borrowdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:models\\borrowdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|c:\\users\\admin\\documents\\zalo received files\\ltweb_quanlythuvien\\quanphuclongquang_doanweb\\migrations\\20250624073826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CA879F8-9D14-4238-A992-30756CD88B6B}|QuanPhucLongQuang_DoAnWeb.csproj|solutionrelative:migrations\\20250624073826_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -250,7 +254,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -261,690 +265,99 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-26T18:39:09.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:27:44.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-25T11:30:04.969Z",
-              "EditorCaption": " - Bitmap [127x179, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:54:00.985Z",
-              "EditorCaption": " - Bitmap [599x900, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAjwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:33:37.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookOrder\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Details.cshtml",
-              "RelativeToolTip": "Views\\BookOrder\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:10:33.861Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Books.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookOrder\\Books.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\Books.cshtml",
-              "RelativeToolTip": "Views\\BookOrder\\Books.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwBwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T17:03:55.532Z",
+              "WhenOpened": "2025-06-27T06:00:51.913Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_BooksListPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\BookOrder\\_BooksListPartial.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\BookOrder\\_BooksListPartial.cshtml",
-              "RelativeToolTip": "Views\\BookOrder\\_BooksListPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T17:24:43.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:57.804Z",
-              "EditorCaption": " - Bitmap [573x907, 24 bit, JPG]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Title": "Books.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\Books.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookOrder\\Books.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\Books.cshtml",
+              "RelativeToolTip": "Views\\BookOrder\\Books.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:09:05.84Z",
+              "WhenOpened": "2025-06-26T17:03:55.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_BooksListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\_BooksListPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookOrder\\_BooksListPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\_BooksListPartial.cshtml",
+              "RelativeToolTip": "Views\\BookOrder\\_BooksListPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T17:24:43.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAD4v90AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T08:12:51.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T18:10:30.788Z",
-              "EditorCaption": ""
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-26T18:39:09.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T18:08:16.874Z",
-              "EditorCaption": " - Bitmap [304x472, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:42.069Z",
-              "EditorCaption": " - Bitmap [1144x2048, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T18:08:18.038Z",
-              "EditorCaption": " - Bitmap [1199x1791, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:37.053Z",
-              "EditorCaption": " - Bitmap [627x899, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:15.18Z",
-              "EditorCaption": " - Bitmap [900x1285, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:14.265Z",
-              "EditorCaption": " - Bitmap [811x1200, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:25.254Z",
-              "EditorCaption": " - Bitmap [800x1141, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T18:08:43.881Z",
-              "EditorCaption": " - Bitmap [784x1200, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:10.845Z",
-              "EditorCaption": " - Bitmap [638x960, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:08.831Z",
-              "EditorCaption": " - Bitmap [804x1200, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:57:37.705Z",
-              "EditorCaption": " - Bitmap [200x296, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:43:58.49Z",
-              "EditorCaption": " - Bitmap [760x1094, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T18:08:41.14Z",
-              "EditorCaption": " - Bitmap [767x1062, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:09.9Z",
-              "EditorCaption": " - Bitmap [183x276, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:03.898Z",
-              "EditorCaption": " - Bitmap [331x512, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T17:53:12.729Z",
-              "EditorCaption": " - Bitmap [652x929, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
-              "RelativeDocumentMoniker": "wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
-              "RelativeToolTip": "wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-06-26T18:08:36.405Z",
-              "EditorCaption": " - Bitmap [412x600, 24 bit, JPG]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T17:26:35.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BookDamageReport.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReport.cs",
-              "RelativeDocumentMoniker": "Models\\BookDamageReport.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReport.cs",
-              "RelativeToolTip": "Models\\BookDamageReport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:19:08.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAhwJUAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T08:02:54.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:20:13.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "BookDamageReportViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReportViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\BookDamageReportViewModel.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookDamageReportViewModel.cs",
-              "RelativeToolTip": "Models\\BookDamageReportViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T17:18:56.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T15:38:54.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-26T16:28:54.099Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T08:18:26.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ReturnController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ReturnController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Controllers\\ReturnController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ReturnController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T08:36:39.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "SessionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Extensions\\SessionExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Extensions\\SessionExtensions.cs",
-              "RelativeToolTip": "Extensions\\SessionExtensions.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T12:37:11.851Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "BookOrder.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrder.cs",
-              "RelativeDocumentMoniker": "Models\\BookOrder.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrder.cs",
-              "RelativeToolTip": "Models\\BookOrder.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:16:24.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 5,
               "Title": "BookOrderController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Controllers\\BookOrderController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookOrderController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Controllers\\BookOrderController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Controllers\\BookOrderController.cs",
               "RelativeToolTip": "Controllers\\BookOrderController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T06:17:12.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T06:17:12.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "DamageReports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T07:39:32Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-06-24T08:07:38.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BookOrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrderDetail.cs",
-              "RelativeDocumentMoniker": "Models\\BookOrderDetail.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BookOrderDetail.cs",
-              "RelativeToolTip": "Models\\BookOrderDetail.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:16:39.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "20250625033520_SeedMoreBooks.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250625033520_SeedMoreBooks.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250625033520_SeedMoreBooks.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250625033520_SeedMoreBooks.cs",
-              "RelativeToolTip": "Migrations\\20250625033520_SeedMoreBooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T03:35:20.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Category.cs",
-              "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:18:19.744Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BookRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BookRepository.cs",
-              "RelativeToolTip": "Repositories\\BookRepository.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA/wCQAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:48:39.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwBAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T09:29:12.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Views\\Return\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T09:29:11.063Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAkwJMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T08:12:51.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-24T08:17:15.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "QuanPhucLongQuang_DoAnWeb.csproj",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\QuanPhucLongQuang_DoAnWeb.csproj",
-              "RelativeDocumentMoniker": "QuanPhucLongQuang_DoAnWeb.csproj",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\QuanPhucLongQuang_DoAnWeb.csproj",
-              "RelativeToolTip": "QuanPhucLongQuang_DoAnWeb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-24T07:13:27.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "SD.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Models\\SD.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\SD.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Areas\\Admin\\Models\\SD.cs",
-              "RelativeToolTip": "Areas\\Admin\\Models\\SD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T02:18:50.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "BorrowDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BorrowDetailRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\BorrowDetailRepository.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Repositories\\BorrowDetailRepository.cs",
-              "RelativeToolTip": "Repositories\\BorrowDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-24T07:54:19.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 4,
               "Title": "20250624073826_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250624073826_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Migrations\\20250624073826_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250624073826_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Migrations\\20250624073826_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Migrations\\20250624073826_InitialCreate.cs",
               "RelativeToolTip": "Migrations\\20250624073826_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -952,11 +365,576 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:17:15.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\BookOrder\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\BookOrder\\Details.cshtml",
+              "RelativeToolTip": "Views\\BookOrder\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:10:33.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAjwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:33:37.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg - Bitmap [599x900, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:54:00.985Z",
+              "EditorCaption": " - Bitmap [599x900, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg - Bitmap [127x179, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-25T11:30:04.969Z",
+              "EditorCaption": " - Bitmap [127x179, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:27:44.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg - Bitmap [573x907, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:57.804Z",
+              "EditorCaption": " - Bitmap [573x907, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:09:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Book\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:10:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg - Bitmap [304x472, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T18:08:16.874Z",
+              "EditorCaption": " - Bitmap [304x472, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg - Bitmap [1144x2048, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:42.069Z",
+              "EditorCaption": " - Bitmap [1144x2048, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg - Bitmap [1199x1791, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T18:08:18.038Z",
+              "EditorCaption": " - Bitmap [1199x1791, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg - Bitmap [627x899, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:37.053Z",
+              "EditorCaption": " - Bitmap [627x899, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg - Bitmap [900x1285, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:15.18Z",
+              "EditorCaption": " - Bitmap [900x1285, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg - Bitmap [811x1200, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:14.265Z",
+              "EditorCaption": " - Bitmap [811x1200, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg - Bitmap [800x1141, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:25.254Z",
+              "EditorCaption": " - Bitmap [800x1141, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg - Bitmap [784x1200, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T18:08:43.881Z",
+              "EditorCaption": " - Bitmap [784x1200, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg - Bitmap [638x960, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:10.845Z",
+              "EditorCaption": " - Bitmap [638x960, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg - Bitmap [804x1200, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:08.831Z",
+              "EditorCaption": " - Bitmap [804x1200, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg - Bitmap [200x296, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:57:37.705Z",
+              "EditorCaption": " - Bitmap [200x296, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg - Bitmap [760x1094, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:43:58.49Z",
+              "EditorCaption": " - Bitmap [760x1094, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg - Bitmap [767x1062, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T18:08:41.14Z",
+              "EditorCaption": " - Bitmap [767x1062, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg - Bitmap [183x276, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:09.9Z",
+              "EditorCaption": " - Bitmap [183x276, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg - Bitmap [331x512, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:03.898Z",
+              "EditorCaption": " - Bitmap [331x512, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg - Bitmap [652x929, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T17:53:12.729Z",
+              "EditorCaption": " - Bitmap [652x929, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
+              "RelativeDocumentMoniker": "wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
+              "RelativeToolTip": "wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg - Bitmap [412x600, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-06-26T18:08:36.405Z",
+              "EditorCaption": " - Bitmap [412x600, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T17:26:35.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookDamageReport.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookDamageReport.cs",
+              "RelativeDocumentMoniker": "Models\\BookDamageReport.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookDamageReport.cs",
+              "RelativeToolTip": "Models\\BookDamageReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:19:08.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAhwJUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:02:54.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:20:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookDamageReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookDamageReportViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookDamageReportViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookDamageReportViewModel.cs",
+              "RelativeToolTip": "Models\\BookDamageReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T17:18:56.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwGEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:38:54.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T08:18:26.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ReturnController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Controllers\\ReturnController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ReturnController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Controllers\\ReturnController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ReturnController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T08:36:39.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:37:11.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookOrder.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookOrder.cs",
+              "RelativeDocumentMoniker": "Models\\BookOrder.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookOrder.cs",
+              "RelativeToolTip": "Models\\BookOrder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:16:24.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DamageReports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\DamageReports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T07:39:32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-24T08:07:38.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BookOrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookOrderDetail.cs",
+              "RelativeDocumentMoniker": "Models\\BookOrderDetail.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BookOrderDetail.cs",
+              "RelativeToolTip": "Models\\BookOrderDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:16:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250625033520_SeedMoreBooks.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Migrations\\20250625033520_SeedMoreBooks.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250625033520_SeedMoreBooks.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Migrations\\20250625033520_SeedMoreBooks.cs",
+              "RelativeToolTip": "Migrations\\20250625033520_SeedMoreBooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:35:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:18:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\BookRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA/wCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:48:39.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\Index.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T09:29:12.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Return\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Views\\Return\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Return\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T09:29:11.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "QuanPhucLongQuang_DoAnWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\QuanPhucLongQuang_DoAnWeb.csproj",
+              "RelativeDocumentMoniker": "QuanPhucLongQuang_DoAnWeb.csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\QuanPhucLongQuang_DoAnWeb.csproj",
+              "RelativeToolTip": "QuanPhucLongQuang_DoAnWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-24T07:13:27.887Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 54,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Models\\SD.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Areas\\Admin\\Models\\SD.cs",
+              "RelativeToolTip": "Areas\\Admin\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T02:18:50.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BorrowDetailRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Repositories\\BorrowDetailRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\BorrowDetailRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Repositories\\BorrowDetailRepository.cs",
+              "RelativeToolTip": "Repositories\\BorrowDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T07:54:19.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -964,11 +942,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 58,
               "Title": "ReturnDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ReturnDetail.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\ReturnDetail.cs",
               "RelativeDocumentMoniker": "Models\\ReturnDetail.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\ReturnDetail.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\ReturnDetail.cs",
               "RelativeToolTip": "Models\\ReturnDetail.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -976,11 +954,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Return.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Return.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Return.cs",
               "RelativeDocumentMoniker": "Models\\Return.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Return.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Return.cs",
               "RelativeToolTip": "Models\\Return.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAjwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -988,11 +966,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 60,
               "Title": "BorrowDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BorrowDetail.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BorrowDetail.cs",
               "RelativeDocumentMoniker": "Models\\BorrowDetail.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\BorrowDetail.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\BorrowDetail.cs",
               "RelativeToolTip": "Models\\BorrowDetail.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1000,11 +978,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 59,
               "Title": "Borrow.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Borrow.cs",
               "RelativeDocumentMoniker": "Models\\Borrow.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Borrow.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Borrow.cs",
               "RelativeToolTip": "Models\\Borrow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1012,25 +990,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAcwBgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-24T07:17:47.32Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 81,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

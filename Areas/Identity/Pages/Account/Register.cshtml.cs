@@ -178,13 +178,14 @@ namespace QuanPhucLongQuang_DoAnWeb.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");
-                    //Lấy role từ giao diện người dùng chọn ==> tiến hành add vào DB
-                    if (!String.IsNullOrEmpty(Input.Role))
+                    // Kiểm tra nếu là tài khoản đầu tiên thì gán role Admin, ngược lại là Customer
+                    var allUsers = _userManager.Users.ToList();
+                    if (allUsers.Count == 1)
                     {
-                        await _userManager.AddToRoleAsync(user, Input.Role);
+                        await _userManager.AddToRoleAsync(user, SD.Role_Admin);
                     }
                     else
-                    {   // trường hợp không chọn role thì lấy role mặc định là customer
+                    {
                         await _userManager.AddToRoleAsync(user, SD.Role_Customer);
                     }
 
@@ -217,6 +218,21 @@ namespace QuanPhucLongQuang_DoAnWeb.Areas.Identity.Pages.Account
             }
 
             // If we got this far, something failed, redisplay form
+            // Khởi tạo lại RoleList để tránh mất dữ liệu khi có lỗi validation
+            Input = new InputModel
+            {
+                FullName = Input?.FullName,
+                Age = Input?.Age,
+                Address = Input?.Address,
+                Email = Input?.Email,
+                Role = Input?.Role,
+                RoleList = _roleManager.Roles.Select(x => x.Name).Select(i => new SelectListItem
+                {
+                    Text = i,
+                    Value = i
+                })
+            };
+
             return Page();
         }
 

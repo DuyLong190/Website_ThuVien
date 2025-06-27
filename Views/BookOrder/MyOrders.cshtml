@@ -2,47 +2,61 @@
 @{
     ViewData["Title"] = "Đơn đã đặt giữ";
 }
-<h2>Đơn đã đặt giữ</h2>
-@if (TempData["Error"] != null)
-{
-    <div class="alert alert-danger">@TempData["Error"]</div>
-}
-@if (TempData["Success"] != null)
-{
-    <div class="alert alert-success">@TempData["Success"]</div>
-}
-<table class="table">
-    <thead>
-        <tr>
-            <th>Ngày đặt</th>
-            <th>Trạng thái</th>
-            <th>Chi tiết</th>
-        </tr>
-    </thead>
-    <tbody>
-    @foreach (var order in Model)
-    {
-        <tr>
-            <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
-            <td>
-                @if (!order.IsPickedUp)
-                {
-                    <span class="badge bg-warning text-dark">Chờ lấy</span>
-                }
-                else
-                {
-                    <span class="badge bg-success">Đã nhận</span>
-                }
-            </td>
-            <td>
-                <ul>
-                @foreach (var detail in order.BookOrderDetails)
-                {
-                    <li>@detail.Book.Title (Số lượng: @detail.Quantity)</li>
-                }
-                </ul>
-            </td>
-        </tr>
-    }
-    </tbody>
-</table> 
+<div class="container py-4">
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-header bg-primary text-white rounded-top-4">
+                    <h3 class="mb-0"><i class="bi bi-bag-check-fill me-2"></i>Đơn đã đặt giữ</h3>
+                </div>
+                <div class="card-body">
+                    @if (TempData["Error"] != null)
+                    {
+                        <div class="alert alert-danger d-flex align-items-center gap-2"><i class="bi bi-x-circle-fill"></i> @TempData["Error"]</div>
+                    }
+                    @if (TempData["Success"] != null)
+                    {
+                        <div class="alert alert-success d-flex align-items-center gap-2"><i class="bi bi-check-circle-fill"></i> @TempData["Success"]</div>
+                    }
+                    <div class="table-responsive">
+                        <table class="table align-middle table-bordered table-hover rounded-4 overflow-hidden">
+                            <thead class="table-light">
+                                <tr>
+                                    <th><i class="bi bi-calendar-date"></i> Ngày đặt</th>
+                                    <th><i class="bi bi-info-circle"></i> Trạng thái</th>
+                                    <th><i class="bi bi-list-ul"></i> Chi tiết</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var order in Model)
+                            {
+                                <tr>
+                                    <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                                    <td>
+                                        @if (!order.IsPickedUp)
+                                        {
+                                            <span class="badge bg-warning text-dark"><i class="bi bi-hourglass-split"></i> Chờ lấy</span>
+                                        }
+                                        else
+                                        {
+                                            <span class="badge bg-success"><i class="bi bi-check2-circle"></i> Đã nhận</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        <ul class="mb-0 ps-3">
+                                        @foreach (var detail in order.BookOrderDetails)
+                                        {
+                                            <li><i class="bi bi-book me-1"></i>@detail.Book.Title <span class="badge bg-info text-dark ms-2">Số lượng: @detail.Quantity</span></li>
+                                        }
+                                        </ul>
+                                    </td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

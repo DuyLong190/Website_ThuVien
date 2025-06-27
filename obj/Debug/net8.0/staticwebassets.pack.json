@@ -1,328 +1,336 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanPhucLongQuang_DoAnWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\QuanPhucLongQuang_DoAnWeb.bundle.scp.css"
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\QuanPhucLongQuang_DoAnWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuanPhucLongQuang_DoAnWeb.iefk9quhgu.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg",
       "PackagePath": "staticwebassets\\images\\06c5ea68-5a21-4c28-9e3c-fed323b968f0.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg",
       "PackagePath": "staticwebassets\\images\\0b66e325-0459-4963-a8d7-83c101945a74.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg",
       "PackagePath": "staticwebassets\\images\\10599258-4683-4380-863b-6c4c6222734a.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg",
       "PackagePath": "staticwebassets\\images\\1a5e6940-eae0-4b04-a800-583c28ae180d.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg",
       "PackagePath": "staticwebassets\\images\\26d29905-702f-4753-a306-3f3eb47b8576.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg",
       "PackagePath": "staticwebassets\\images\\279ef0e4-863b-4429-948d-3842a46e7e6d.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg",
       "PackagePath": "staticwebassets\\images\\32a04cd8-cd32-4af1-8888-9d5978c7e7c4.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg",
       "PackagePath": "staticwebassets\\images\\36b6e533-f6fc-4ff5-a29a-ee728ebba903.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg",
       "PackagePath": "staticwebassets\\images\\4331b2f9-2d8b-4a78-999d-2a59d0c3e63f.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg",
       "PackagePath": "staticwebassets\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
       "PackagePath": "staticwebassets\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg",
       "PackagePath": "staticwebassets\\images\\67ff7317-6e1b-4e33-a955-5103ed90e3c6.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg",
       "PackagePath": "staticwebassets\\images\\883ee691-df91-4239-8f34-f86fade82f6d.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg",
       "PackagePath": "staticwebassets\\images\\aabcf34f-06b4-465b-88f3-a65cba45febd.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg",
       "PackagePath": "staticwebassets\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "PackagePath": "staticwebassets\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
       "PackagePath": "staticwebassets\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg",
       "PackagePath": "staticwebassets\\images\\c4972e43-a4dc-4b94-9194-7d514c1e7041.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg",
       "PackagePath": "staticwebassets\\images\\c82b21d7-98cc-462a-a40c-c8bdbfd8439e.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg",
       "PackagePath": "staticwebassets\\images\\dce3f3b6-224c-4614-a4a8-6681701aa277.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg",
       "PackagePath": "staticwebassets\\images\\ef81cb15-85ae-4182-942e-20f21f11be5e.jpg"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuanPhucLongQuang_DoAnWeb.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuanPhucLongQuang_DoAnWeb.Microsoft.AspNetCore.StaticWebAssets.props",

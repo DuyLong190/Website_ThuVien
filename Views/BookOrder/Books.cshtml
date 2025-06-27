@@ -20,12 +20,12 @@
                         <i class="bi bi-list"></i> @selectedCategoryName
                     </button>
                     <ul class="dropdown-menu" aria-labelledby="categoryDropdown">
-                        <li><a class="dropdown-item @(selectedCategory == null ? "active" : "")" href="@Url.Action("Books", new { search = search })">Tất cả</a></li>
+                        <li><a class="dropdown-item @(selectedCategory == null ? "active" : "")" href="@Url.Action("Books", new { search = search })"><i class="bi bi-collection me-2"></i>Tất cả</a></li>
                         @if (categories != null)
                         {
                             foreach (var cat in categories)
                             {
-                                <li><a class="dropdown-item @(selectedCategory == cat.Id ? "active" : "")" href="@Url.Action("Books", new { categoryId = cat.Id, search = search })">@cat.Name</a></li>
+                                <li><a class="dropdown-item @(selectedCategory == cat.Id ? "active" : "")" href="@Url.Action("Books", new { categoryId = cat.Id, search = search })"><i class="bi bi-bookmark me-2"></i>@cat.Name</a></li>
                             }
                         }
                     </ul>
@@ -33,7 +33,8 @@
                 <div class="flex-grow-1 ms-md-3 w-100 w-md-auto">
                     <form method="get" class="w-100">
                         <div class="input-group input-group-lg rounded-pill shadow-sm">
-                            <input type="text" class="form-control border-primary rounded-start-pill" id="searchBox" name="search" placeholder="Tìm kiếm sách theo tên, tác giả..." value="@search" autocomplete="off" />
+                            <span class="input-group-text bg-white border-primary rounded-start-pill"><i class="bi bi-search"></i></span>
+                            <input type="text" class="form-control border-primary rounded-0" id="searchBox" name="search" placeholder="Tìm kiếm sách theo tên, tác giả..." value="@search" autocomplete="off" />
                             @if (selectedCategory != null)
                             {
                                 <input type="hidden" name="categoryId" value="@selectedCategory" />
@@ -45,15 +46,15 @@
             </div>
             @if (TempData["Error"] != null)
             {
-                <div class="alert alert-danger alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold" role="alert">
-                    @TempData["Error"]
+                <div class="alert alert-danger alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold d-flex align-items-center justify-content-center gap-2" role="alert">
+                    <i class="bi bi-x-circle-fill fs-5"></i> @TempData["Error"]
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
             }
             @if (TempData["Success"] != null)
             {
-                <div class="alert alert-success alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold" role="alert">
-                    @TempData["Success"]
+                <div class="alert alert-success alert-dismissible fade show mt-3 shadow-sm rounded-pill px-4 py-2 text-center fw-semibold d-flex align-items-center justify-content-center gap-2" role="alert">
+                    <i class="bi bi-check-circle-fill fs-5"></i> @TempData["Success"]
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
             }
