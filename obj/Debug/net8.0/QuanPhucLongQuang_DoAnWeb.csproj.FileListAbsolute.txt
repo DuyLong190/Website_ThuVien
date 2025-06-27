@@ -1175,10 +1175,10 @@ C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets\msbui
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.QuanPhucLongQuang_DoAnWeb.props
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.QuanPhucLongQuang_DoAnWeb.props
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\QuanPhuc.61084E6A.Up2Date
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\QuanPhucLongQuang_DoAnWeb.dll
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\refint\QuanPhucLongQuang_DoAnWeb.dll
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\QuanPhucLongQuang_DoAnWeb.pdb
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\QuanPhucLongQuang_DoAnWeb.genruntimeconfig.cache
 C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\ref\QuanPhucLongQuang_DoAnWeb.dll
+C:\Users\PC\Desktop\demo1\Website_ThuVien\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
