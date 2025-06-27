@@ -217,6 +217,21 @@ namespace QuanPhucLongQuang_DoAnWeb.Areas.Identity.Pages.Account
             }
 
             // If we got this far, something failed, redisplay form
+            // Khởi tạo lại RoleList để tránh mất dữ liệu khi có lỗi validation
+            Input = new InputModel
+            {
+                FullName = Input?.FullName,
+                Age = Input?.Age,
+                Address = Input?.Address,
+                Email = Input?.Email,
+                Role = Input?.Role,
+                RoleList = _roleManager.Roles.Select(x => x.Name).Select(i => new SelectListItem
+                {
+                    Text = i,
+                    Value = i
+                })
+            };
+
             return Page();
         }
 
