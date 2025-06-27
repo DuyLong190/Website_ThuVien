@@ -2,57 +2,71 @@
 @{
     ViewData["Title"] = "Giỏ hàng của bạn";
 }
-<a href="/BookOrder/Books" class="btn btn-secondary mb-3"><i class="bi bi-arrow-left"></i> Quay lại chọn sách</a>
-<h2>Giỏ hàng của bạn</h2>
-@if (TempData["Error"] != null)
-{
-    <div class="alert alert-danger">@TempData["Error"]</div>
-}
-@if (TempData["Success"] != null)
-{
-    <div class="alert alert-success">@TempData["Success"]</div>
-}
-@if (Model.Items.Count == 0)
-{
-    <div class="alert alert-info">Giỏ hàng trống.</div>
-}
-else
-{
-    <table class="table table-bordered">
-        <thead>
-            <tr>
-                <th>Ảnh</th>
-                <th>Tên sách</th>
-                <th>Số lượng</th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var item in Model.Items)
-            {
-                <tr>
-                    <td style="width:100px"><img src="@item.ImageUrl" alt="@item.Title" style="width:80px;height:100px;object-fit:cover;"></td>
-                    <td>@item.Title</td>
-                    <td>
-                        <form asp-action="UpdateQuantity" method="post" style="display:inline-flex;align-items:center">
-                            <input type="hidden" name="bookId" value="@item.BookId" />
-                            <input type="number" name="quantity" min="1" value="@item.Quantity" class="form-control form-control-sm" style="width:70px;" onchange="this.form.submit()" />
+<div class="container py-4">
+    <a href="/BookOrder/Books" class="btn btn-secondary mb-3 rounded-pill"><i class="bi bi-arrow-left"></i> Quay lại chọn sách</a>
+    <div class="row justify-content-center">
+        <div class="col-lg-10">
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-header bg-primary text-white rounded-top-4">
+                    <h3 class="mb-0"><i class="bi bi-cart-fill me-2"></i>Giỏ hàng của bạn</h3>
+                </div>
+                <div class="card-body">
+                    @if (TempData["Error"] != null)
+                    {
+                        <div class="alert alert-danger d-flex align-items-center gap-2"><i class="bi bi-x-circle-fill"></i> @TempData["Error"]</div>
+                    }
+                    @if (TempData["Success"] != null)
+                    {
+                        <div class="alert alert-success d-flex align-items-center gap-2"><i class="bi bi-check-circle-fill"></i> @TempData["Success"]</div>
+                    }
+                    @if (Model.Items.Count == 0)
+                    {
+                        <div class="alert alert-info d-flex align-items-center gap-2"><i class="bi bi-info-circle"></i> Giỏ hàng trống.</div>
+                    }
+                    else
+                    {
+                        <div class="table-responsive">
+                            <table class="table align-middle table-bordered table-hover rounded-4 overflow-hidden">
+                                <thead class="table-light">
+                                    <tr>
+                                        <th><i class="bi bi-image"></i> Ảnh</th>
+                                        <th><i class="bi bi-journal-bookmark"></i> Tên sách</th>
+                                        <th><i class="bi bi-123"></i> Số lượng</th>
+                                        <th></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model.Items)
+                                    {
+                                        <tr>
+                                            <td style="width:100px"><img src="@item.ImageUrl" alt="@item.Title" class="rounded shadow-sm" style="width:80px;height:100px;object-fit:cover;"></td>
+                                            <td>@item.Title</td>
+                                            <td>
+                                                <form asp-action="UpdateQuantity" method="post" style="display:inline-flex;align-items:center">
+                                                    <input type="hidden" name="bookId" value="@item.BookId" />
+                                                    <input type="number" name="quantity" min="1" value="@item.Quantity" class="form-control form-control-sm rounded-pill" style="width:70px;" onchange="this.form.submit()" />
+                                                    @Html.AntiForgeryToken()
+                                                </form>
+                                            </td>
+                                            <td>
+                                                <form asp-action="RemoveFromCart" method="post" style="display:inline">
+                                                    <input type="hidden" name="bookId" value="@item.BookId" />
+                                                    <button type="submit" class="btn btn-danger btn-sm rounded-pill"><i class="bi bi-trash"></i> Xóa</button>
+                                                    @Html.AntiForgeryToken()
+                                                </form>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                        <form asp-action="PlaceOrder" method="post" class="mt-3 text-end">
+                            <button type="submit" class="btn btn-primary btn-lg rounded-pill shadow-sm"><i class="bi bi-bag-check-fill"></i> Đặt sách</button>
                             @Html.AntiForgeryToken()
                         </form>
-                    </td>
-                    <td>
-                        <form asp-action="RemoveFromCart" method="post" style="display:inline">
-                            <input type="hidden" name="bookId" value="@item.BookId" />
-                            <button type="submit" class="btn btn-danger btn-sm">Xóa</button>
-                            @Html.AntiForgeryToken()
-                        </form>
-                    </td>
-                </tr>
-            }
-        </tbody>
-    </table>
-    <form asp-action="PlaceOrder" method="post">
-        <button type="submit" class="btn btn-primary">Đặt sách</button>
-        @Html.AntiForgeryToken()
-    </form>
-} 
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

@@ -64,7 +64,7 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
             var existing = _categoryRepository.GetByName(category.Name);
             if (existing != null && existing.Id != category.Id)
             {
-                ModelState.AddModelError("Name", "Đã có");
+                ModelState.AddModelError("Name", "Tên danh mục đã có");
             }
             if (ModelState.IsValid)
             {

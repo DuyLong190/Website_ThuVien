@@ -63,42 +63,31 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between align-items-center">
                     <ul class="navbar-nav flex-grow-1">
-                        @if (SignInManager.IsSignedIn(User) && UserManager.IsInRoleAsync(UserManager.GetUserAsync(User).Result, SD.Role_Admin).Result)
+                        @{
+                            var currentUser = UserManager.GetUserAsync(User).Result;
+                            var isAdmin = currentUser != null && UserManager.IsInRoleAsync(currentUser, SD.Role_Admin).Result;
+                        }
+                        @if (SignInManager.IsSignedIn(User) && isAdmin)
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Category" asp-action="Index">Danh mục</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Book" asp-action="Index">Sách</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Borrow" asp-action="Index">Mượn sách</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="Return" asp-action="Index">Trả sách</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="Admin" asp-controller="BookOrder" asp-action="Unpicked">Đơn đặt chưa nhận</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark fw-bold" asp-area="Admin" asp-controller="User" asp-action="Index">
-                                    <i class="bi bi-people"></i> Quản lý người dùng
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle fw-bold text-primary d-flex align-items-center gap-2" href="#" id="adminDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <i class="bi bi-shield-lock"></i> Quản trị
                                 </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-danger fw-bold" asp-area="Admin" asp-controller="Return" asp-action="DamageReports">
-                                    <i class="bi bi-exclamation-triangle"></i> Báo cáo lỗi/phạt
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark fw-bold" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
-                                    <i class="bi bi-bar-chart"></i> Dashboard
-                                </a>
+                                <ul class="dropdown-menu shadow rounded-4 p-2" aria-labelledby="adminDropdown">
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2" asp-area="Admin" asp-controller="Category" asp-action="Index"><i class="bi bi-tags"></i> Danh mục</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2" asp-area="Admin" asp-controller="Book" asp-action="Index"><i class="bi bi-journal-bookmark"></i> Sách</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2" asp-area="Admin" asp-controller="Borrow" asp-action="Index"><i class="bi bi-journal-arrow-up"></i> Mượn sách</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2" asp-area="Admin" asp-controller="Return" asp-action="Index"><i class="bi bi-journal-arrow-down"></i> Trả sách</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2" asp-area="Admin" asp-controller="BookOrder" asp-action="Unpicked"><i class="bi bi-bag-x"></i> Đơn đặt chưa nhận</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2 fw-bold text-primary" asp-area="Admin" asp-controller="User" asp-action="Index"><i class="bi bi-people"></i> Quản lý người dùng</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2 fw-bold text-danger" asp-area="Admin" asp-controller="Return" asp-action="DamageReports"><i class="bi bi-exclamation-triangle"></i> Báo cáo lỗi/phạt</a></li>
+                                    <li><a class="dropdown-item d-flex align-items-center gap-2 fw-bold" asp-area="Admin" asp-controller="Dashboard" asp-action="Index"><i class="bi bi-bar-chart"></i> Dashboard</a></li>
+                                </ul>
                             </li>
                         }
-                        @if (SignInManager.IsSignedIn(User) && !UserManager.IsInRoleAsync(UserManager.GetUserAsync(User).Result, SD.Role_Admin).Result)
+                        @if (SignInManager.IsSignedIn(User) && currentUser != null && !UserManager.IsInRoleAsync(currentUser, SD.Role_Admin).Result)
                         {
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="BookOrder" asp-action="Books">Home</a>
@@ -108,11 +97,13 @@
                             </li>
                         }
                     </ul>
-                    <a class="btn btn-outline-dark d-flex align-items-center" href="/Cart/Index">
-                        <i class="bi bi-cart-fill me-1"></i>
-                        Cart
-                    </a>
-                    <partial name="_LoginPartial" />
+                    <div class="d-flex align-items-center gap-3 ms-2">
+                        <a class="btn btn-outline-primary d-flex align-items-center gap-2 px-3 py-2 rounded-pill shadow-sm position-relative" href="/Cart/Index" style="font-weight:500;">
+                            <i class="bi bi-cart-fill fs-5"></i>
+                            <span>Cart</span>
+                        </a>
+                        <partial name="_LoginPartial" />
+                    </div>
                 </div>
             </div>
         </nav>

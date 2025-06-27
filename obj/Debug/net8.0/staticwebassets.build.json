@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eSeRmY1HJSp+2n2cbr+A5dPPy89KLMr/h+zrqEunGNs=",
+  "Hash": "f2DlDBZKyWuU5RrxfXDlFnZgh/aYO3AhtRG/OMBrwv0=",
   "Source": "QuanPhucLongQuang_DoAnWeb",
   "BasePath": "_content/QuanPhucLongQuang_DoAnWeb",
   "Mode": "Default",
@@ -1423,6 +1423,25 @@
       "OriginalItemSpec": "wwwroot\\images\\58f42446-0d2c-4b62-97dc-648db90db359.jpg"
     },
     {
+      "Identity": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\5d26c2e6-1a48-4fde-afef-5ef388bacf69.jpg",
+      "SourceId": "QuanPhucLongQuang_DoAnWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\",
+      "BasePath": "_content/QuanPhucLongQuang_DoAnWeb",
+      "RelativePath": "images/5d26c2e6-1a48-4fde-afef-5ef388bacf69.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5d26c2e6-1a48-4fde-afef-5ef388bacf69.jpg"
+    },
+    {
       "Identity": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\62924460-d199-4c20-aaa1-1404ac83692f.jpg",
       "SourceId": "QuanPhucLongQuang_DoAnWeb",
       "SourceType": "Discovered",
@@ -1516,6 +1535,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "SourceId": "QuanPhucLongQuang_DoAnWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\",
+      "BasePath": "_content/QuanPhucLongQuang_DoAnWeb",
+      "RelativePath": "images/b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Documents\\Zalo Received Files\\LTWeb_QuanLyThuVien\\QuanPhucLongQuang_DoAnWeb\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
