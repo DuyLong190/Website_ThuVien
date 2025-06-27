@@ -76,6 +76,8 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Book book, IFormFile Image)
         {
+
+
             if (Image != null && Image.Length > 0)
             {
                 var fileName = Guid.NewGuid().ToString() + Path.GetExtension(Image.FileName);
@@ -93,6 +95,9 @@ namespace QuanPhucLongQuang_DoAnWeb.Controllers
                 var oldBook = _bookRepository.GetById(book.Id);
                 book.ImageUrl = oldBook?.ImageUrl;
             }
+
+
+            ModelState.Remove("Image");
             if (ModelState.IsValid)
             {
                 _bookRepository.Update(book);

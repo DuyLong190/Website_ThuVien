@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuanPhucLongQuang_DoAnWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+570d9a07a396520aa008ad7c402733c3b120dc7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ffa95f53c65110db4a81e6f637de5644c5ad1f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuanPhucLongQuang_DoAnWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuanPhucLongQuang_DoAnWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
