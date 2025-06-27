@@ -306,6 +306,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>QuanPhucLongQuang_DoAnWeb</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/QuanPhucLongQuang_DoAnWeb</BasePath>
+      <RelativePath>images/b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rouo19wpbf</Fingerprint>
+      <Integrity>panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>QuanPhucLongQuang_DoAnWeb</SourceId>

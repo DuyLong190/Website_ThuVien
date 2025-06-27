@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "e3W06aSWuMJ0jNUIBcFfNh2USHFfHM9OHAaYL4dUW3M=",
+  "Hash": "roOQ1py1qq2roI1722Iuk+R2nZP+PFAIxM3WZ8LmJqI=",
   "Source": "QuanPhucLongQuang_DoAnWeb",
   "BasePath": "_content/QuanPhucLongQuang_DoAnWeb",
   "Mode": "Default",
@@ -1674,6 +1674,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\ab132747-6870-416f-9160-e2fcf0f8df4c.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "SourceId": "QuanPhucLongQuang_DoAnWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\",
+      "BasePath": "_content/QuanPhucLongQuang_DoAnWeb",
+      "RelativePath": "images/b0c47d8e-b883-4178-a909-7d966d3e38bb#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rouo19wpbf",
+      "Integrity": "panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg"
     },
     {
       "Identity": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b517a214-a746-4ca8-9419-f1199bc4c89b.jpg",
@@ -6611,6 +6632,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-VoDhKkbqrkhP49haIn12EsHJkdnNDSe4vpQJFnYXbmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "AssetFile": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4040987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 06:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M="
+        }
+      ]
+    },
+    {
+      "Route": "images/b0c47d8e-b883-4178-a909-7d966d3e38bb.rouo19wpbf.jpg",
+      "AssetFile": "C:\\Users\\PC\\Desktop\\demo1\\Website_ThuVien\\wwwroot\\images\\b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4040987"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 06:12:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rouo19wpbf"
+        },
+        {
+          "Name": "label",
+          "Value": "images/b0c47d8e-b883-4178-a909-7d966d3e38bb.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-panHbt/Oibn44nW6K4aI4ZlowNtN37BB5KhaNKkN81M="
         }
       ]
     },
@@ -11803,7 +11906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Jun 2025 05:22:41 GMT"
+          "Value": "Fri, 27 Jun 2025 06:24:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11840,7 +11943,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Jun 2025 05:22:41 GMT"
+          "Value": "Fri, 27 Jun 2025 06:24:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11885,7 +11988,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Jun 2025 05:22:41 GMT"
+          "Value": "Fri, 27 Jun 2025 06:24:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11930,7 +12033,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Jun 2025 05:22:41 GMT"
+          "Value": "Fri, 27 Jun 2025 06:24:25 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -5,9 +5,9 @@
 <div class="container py-4">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <div class="card shadow-lg border-0">
+            <div class="card shadow-lg border-0 rounded-4">
                 <div class="row g-0">
-                    <div class="col-md-4 d-flex align-items-center justify-content-center bg-light">
+                    <div class="col-md-4 d-flex align-items-center justify-content-center bg-light rounded-start-4">
                         @if (!string.IsNullOrEmpty(Model.ImageUrl))
                         {
                             <img src="@Model.ImageUrl" alt="Ảnh bìa sách" class="img-fluid rounded m-3 shadow" style="max-height:320px;" />
@@ -22,15 +22,15 @@
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
-                            <h2 class="card-title text-primary mb-3"><i class="bi bi-journal-bookmark"></i> @Model.Title</h2>
+                            <h2 class="card-title text-primary mb-3"><i class="bi bi-journal-bookmark me-2"></i> @Model.Title</h2>
                             <ul class="list-group list-group-flush mb-3">
-                                <li class="list-group-item"><strong>Tác giả:</strong> <span class="text-dark">@Model.Author</span></li>
-                                <li class="list-group-item"><strong>Mô tả:</strong> <span class="text-dark">@Model.Description</span></li>
-                                <li class="list-group-item"><strong>Số lượng:</strong> <span class="badge bg-primary fs-6">@Model.Quantity</span></li>
-                                <li class="list-group-item"><strong>Danh mục:</strong> <span class="text-dark">@Model.Category?.Name</span></li>
+                                <li class="list-group-item"><i class="bi bi-person me-2 text-secondary"></i><strong>Tác giả:</strong> <span class="text-dark">@Model.Author</span></li>
+                                <li class="list-group-item"><i class="bi bi-info-circle me-2 text-secondary"></i><strong>Mô tả:</strong> <span class="text-dark">@Model.Description</span></li>
+                                <li class="list-group-item"><i class="bi bi-archive me-2 text-secondary"></i><strong>Số lượng:</strong> <span class="badge bg-primary fs-6">@Model.Quantity</span></li>
+                                <li class="list-group-item"><i class="bi bi-tags me-2 text-secondary"></i><strong>Danh mục:</strong> <span class="text-dark">@Model.Category?.Name</span></li>
                             </ul>
-                            <div class="d-flex justify-content-end">
-                                <a href="/BookOrder/Books" class="btn btn-outline-primary me-2"><i class="bi bi-arrow-left"></i> Quay lại</a>
+                            <div class="d-flex justify-content-end gap-2">
+                                <a href="/BookOrder/Books" class="btn btn-outline-primary"><i class="bi bi-arrow-left"></i> Quay lại</a>
                                 <!-- Có thể thêm nút đặt giữ ở đây nếu cần -->
                             </div>
                         </div>

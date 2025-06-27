@@ -5,76 +5,71 @@
     ViewData["Title"] = "Log in";
 }
 
-<h1>@ViewData["Title"]</h1>
-<div class="row">
-    <div class="col-md-4">
-        <section>
-            <form id="account" method="post">
-                <h2>Use a local account to log in.</h2>
-                <hr />
-                <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
-                <div class="form-floating mb-3">
-                    <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                    <label asp-for="Input.Email" class="form-label">Email</label>
-                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+<div class="container py-5">
+    <div class="row justify-content-center align-items-center min-vh-80">
+        <div class="col-lg-6 col-md-8">
+            <div class="card shadow-lg border-0 rounded-4">
+                <div class="card-header bg-primary text-white text-center rounded-top-4">
+                    <h2 class="mb-0"><i class="bi bi-box-arrow-in-right me-2"></i>Đăng nhập</h2>
                 </div>
-                <div class="form-floating mb-3">
-                    <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="password" />
-                    <label asp-for="Input.Password" class="form-label">Password</label>
-                    <span asp-validation-for="Input.Password" class="text-danger"></span>
-                </div>
-                <div class="checkbox mb-3">
-                    <label asp-for="Input.RememberMe" class="form-label">
-                        <input class="form-check-input" asp-for="Input.RememberMe" />
-                        @Html.DisplayNameFor(m => m.Input.RememberMe)
-                    </label>
-                </div>
-                <div>
-                    <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary">Log in</button>
-                </div>
-                <div>
-                    <p>
-                        <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
-                    </p>
-                    <p>
-                        <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
-                    </p>
-                    <p>
-                        <a id="resend-confirmation" asp-page="./ResendEmailConfirmation">Resend email confirmation</a>
-                    </p>
-                </div>
-            </form>
-        </section>
-    </div>
-    <div class="col-md-6 col-md-offset-2">
-        <section>
-            <h3>Use another service to log in.</h3>
-            <hr />
-            @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                        <p>
-                            There are no external authentication services configured. See this <a href="https://go.microsoft.com/fwlink/?LinkID=532715">article
-                            about setting up this ASP.NET application to support logging in via external services</a>.
-                        </p>
-                    </div>
-                }
-                else
-                {
-                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
-                        <div>
-                            <p>
-                                @foreach (var provider in Model.ExternalLogins!)
-                                {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
-                                }
-                            </p>
+                <div class="card-body p-4">
+                    <form id="account" method="post" autocomplete="off">
+                        <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+                        <div class="mb-3 input-group">
+                            <span class="input-group-text bg-light"><i class="bi bi-envelope"></i></span>
+                            <input asp-for="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
+                            <label asp-for="Input.Email" class="visually-hidden">Email</label>
+                        </div>
+                        <span asp-validation-for="Input.Email" class="text-danger small"></span>
+                        <div class="mb-3 input-group">
+                            <span class="input-group-text bg-light"><i class="bi bi-lock"></i></span>
+                            <input asp-for="Input.Password" class="form-control" autocomplete="current-password" aria-required="true" placeholder="Mật khẩu" />
+                            <label asp-for="Input.Password" class="visually-hidden">Password</label>
+                        </div>
+                        <span asp-validation-for="Input.Password" class="text-danger small"></span>
+                        <div class="form-check mb-3">
+                            <input class="form-check-input" asp-for="Input.RememberMe" />
+                            <label asp-for="Input.RememberMe" class="form-check-label">
+                                @Html.DisplayNameFor(m => m.Input.RememberMe)
+                            </label>
+                        </div>
+                        <button id="login-submit" type="submit" class="w-100 btn btn-lg btn-primary mt-2 shadow-sm">
+                            <i class="bi bi-box-arrow-in-right me-2"></i>Đăng nhập
+                        </button>
+                        <div class="text-center mt-3">
+                            <a id="forgot-password" asp-page="./ForgotPassword" class="text-decoration-none text-primary"><i class="bi bi-question-circle"></i> Quên mật khẩu?</a>
+                        </div>
+                        <div class="text-center mt-2">
+                            <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl" class="text-decoration-none text-primary"><i class="bi bi-person-plus"></i> Đăng ký tài khoản mới</a>
+                        </div>
+                        <div class="text-center mt-2">
+                            <a id="resend-confirmation" asp-page="./ResendEmailConfirmation" class="text-decoration-none text-primary"><i class="bi bi-envelope-arrow-up"></i> Gửi lại email xác nhận</a>
                         </div>
                     </form>
-                }
-            }
-        </section>
+                </div>
+                <div class="card-footer bg-light text-center rounded-bottom-4">
+                    <h6 class="mb-2"><i class="bi bi-box-arrow-in-right me-2"></i>Đăng nhập bằng dịch vụ khác</h6>
+                    @if ((Model.ExternalLogins?.Count ?? 0) == 0)
+                    {
+                        <div class="alert alert-info small">
+                            <i class="bi bi-info-circle"></i> Không có dịch vụ xác thực ngoài nào được cấu hình.<br />
+                            <a href="https://go.microsoft.com/fwlink/?LinkID=532715" target="_blank">Tìm hiểu thêm</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="d-flex flex-wrap gap-2 justify-content-center">
+                            @foreach (var provider in Model.ExternalLogins!)
+                            {
+                                <button type="submit" class="btn btn-outline-primary d-flex align-items-center gap-2" name="provider" value="@provider.Name" title="Đăng nhập bằng @provider.DisplayName">
+                                    <i class="bi bi-box-arrow-in-right"></i> @provider.DisplayName
+                                </button>
+                            }
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
